@@ -22,8 +22,8 @@ title: Your awesome title
 email: jceyrac@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
   You'll find a description of my product management work on this website.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/cv" # the subpath of your site, e.g. /blog
+url: "https://jceyrac.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: jerome-ceyrac-aa4ba22
 github_username:  jceyrac
 
@@ -35,7 +35,7 @@ plugins:
 
 languages: ["en","fr"]
 default_lang: "en"
-#exclude_from_localization: ["assets/img", "assets/css"]
+exclude_from_localization: ["assets/img", "assets/css"]
 parallel_localization:  true
 
 sass:

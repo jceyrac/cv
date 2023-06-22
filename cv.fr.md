@@ -21,7 +21,7 @@ Mes principaux objectifs et réalisations:
 - Mise en place de l’authentification app to app sur connecteurs bancaires DSP2 afin d’améliorer les taux de conversion sur mobile (60% des utilisateurs) puis définition et exécution d’un plan de migration progressif des principaux clients
 - Développement de nouveaux connecteurs bancaires pour consolider la position de leader français de l’open banking auprès les clients du segment des services aux entreprises (compta, ERP, salaires)
 
-|**Méthodologie**|**Tech environment**|**Outils**|
+|**Méthodologie**|**Environment tech**|**Outils**|
 |----|----|----|
 |Management maigre (lean); Conception créative (design thinking); Développement agile; Scrum / Kanban; Intégration continue|Figma; Postman; Github; suite Google office; Asana; Element / Slack|Linux; Python; REST API|
 
@@ -40,7 +40,7 @@ Mes principaux objectifs et réalisations:
 - Création d'un parcourt au sein du portail pour permettre aux utilisateurs de facilement partager leur donnée via une interface plutôt que via l'API
 - Amélioration de l'expérience utilisateur autour de la gestion des demandes d'accès aux donnée
 
-|**Méthodologie**|**Tech environment**|**Outils**|
+|**Méthodologie**|**Environment tech**|**Outils**|
 |----|----|----|
 |Management maigre (lean); Conception créative (design thinking); Développement agile; Scrum / Kanban; Intégration continue|Google Cloud Platform; Figma; Miro; Postman; Github; go.hugo.io; suite Google office; Slack|Google Cloud Platform; Vue.js; Node.js; REST API|
 
@@ -61,7 +61,7 @@ Main objectives and achievements:
 - Etre en premier support des clients pour les aider à intégrer les services de l’API au mieux selon leurs besoins
 - Améliorer et industrialiser le produit grâce notamment à l’automatisation de nombreux processus et la mise à disposition d’un portail client pour le suivi de l’activité et la déclaration des contentieux
 
-|**Méthodologie**|**Tech environment**|**Outils**|
+|**Méthodologie**|**Environment tech**|**Outils**|
 |----|----|----|
 |Management maigre (lean); Conception créative (design thinking); Développement agile; Scrum / Kanban; Intégration continue|Axure (prototyping); Postman; Readme; Microsoft Visual Studio Team Services; Microsoft Dev Ops; SQL Operations Studio; Jupyter; Google office tools; Slack|Microsoft Azure; C#; PHP; JSON; Python; REST API|
 
@@ -93,7 +93,7 @@ Mes principaux objectifs et réalisations:
 - Conception, réalisation et lancement du produit minimum viable de la plateforme GENIAC afin de valider la pertinence du produit auprès de clients pionniers.
 - Sécuriser la levée de fonds série A.
 
-|**Méthodologie**|**Tech environment**|**Outils**|
+|**Méthodologie**|**Environment tech**|**Outils**|
 |----|----|----|
 |Management maigre (lean); Conception créative (design thinking); Développement agile; Scrum / Kanban; Intégration continue; Programmation piloté par les tests (test driven development)|Axure; Jira; Confluence; Selenium; Jenkins; Testlodge; Google Analytics; suite Google office; Slack|AngularJS; PHP; Java; Symfony; Salesforce; Twinfield; Hotdocs; Duedil; MongoDB; MySQ; NodeJS; Docker; AmazonWS; Segment|
 
@@ -109,7 +109,7 @@ Mes principaux objectifs et réalisations:
 - Réalisation du produit minimum viable en suivant la méthodologie Agile avec l'équipe de développement basée en Slovaquie (rédaction des histoires utilisateurs incluant maquettes écrans, diagrammes UML, règles de gestion, tests).
 - Définition de la stratégie de lancement du produit ainsi que son suivi (Google Analytics, requêtes BDD).
 
-|**Méthodologie**|**Tech environment**|**Outils**|
+|**Méthodologie**|**Environment tech**|**Outils**|
 |----|----|----|
 |Management maigre (lean); Conception créative (design thinking); Développement agile; Scrum / Kanban; Intégration continue|Jira; Google Analytics; suite Google office|PHP; WordPres; MySQL; AmazonWS|
 
@@ -162,6 +162,6 @@ Développeur Java et intégrateur sur la partie frontale de la nouvelle applicat
 
 Développeur Java sur le partie frontale de la nouvelle application Internet client de la Banque Populaire. L'originalité de ce projet est qu'il suivait la méthodologie de programmation pilotée par modèle UML (Model Driven Development).
 
-|**Méthodologie**|**Tech environment**|**Outils**|
+|**Méthodologie**|**Environment tech**|**Outils**|
 |----|----|----|
 |Gestion de projet Accenture; Management en cascade (Waterfall); Intégration continue; Programmation pilotée par le modèle (model driven development)|MSProject; MSOffice; QualityCenter; Eclipse; Selenium|UML; Design Patterns; J2EE; Spring Web Flow; Oracle Weblogic Portal/Server; Jenkins; CSS; Javascript; HTML; XML; JSP; Perl|

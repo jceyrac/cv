@@ -33,7 +33,7 @@ plugins:
   - jekyll-feed
   - jekyll-polyglot
 
-languages: ["en","fr"]
+languages: ["en","fr","es"]
 default_lang: "en"
 exclude_from_localization: ["assets/img", "assets/css"]
 parallel_localization:  true

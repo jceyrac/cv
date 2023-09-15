@@ -7,7 +7,7 @@ lang: en
 
 ⬇️ [Download CV][1]
 
-[1]:{{ site.url }}/assets/download/cv-en.pdf
+[1]:{{ base.url }}/assets/download/cv-en.pdf
 
 ## Key experiences
 

@@ -7,7 +7,7 @@ lang: fr
 
 ⬇️ [Télécharger le CV][1]
 
-[1]:{{ site.url }}/assets/download/cv-fr.pdf
+[1]:{{ base.url }}/assets/download/cv-fr.pdf
 
 ## Expérience professionnelle
 

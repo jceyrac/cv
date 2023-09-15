@@ -5,6 +5,10 @@ permalink: /cv/
 lang: fr
 ---
 
+⬇️ [Télécharger le CV][1]
+
+[1]:{{ site.url }}/assets/download/cv-fr.pdf
+
 ## Expérience professionnelle
 
 # Chef de produit digital chez [Powens](https://www.powens.com/) (freelance)

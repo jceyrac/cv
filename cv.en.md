@@ -5,6 +5,10 @@ permalink: /cv/
 lang: en
 ---
 
+⬇️ [Download CV][1]
+
+[1]:{{ site.url }}/assets/download/cv-en.pdf
+
 ## Key experiences
 
 # Product manager at [Powens](https://www.powens.com/) (freelance)

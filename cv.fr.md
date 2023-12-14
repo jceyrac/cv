@@ -15,7 +15,7 @@ lang: fr
 
 _Paris, France / Jan 2022 - Nov 2022 (11 mois)_
 
-Powens fournit une API Open Finance qui permet aux entreprises de créer des expériences d'embedded finance et de paiement uniques. J’étais le chef de produit digital du produit Bank, le principal produit de l’entreprise, en nombre de clients et de revenus, et le leader du marché en France. Il permet aux clients de connecter leurs données bancaires instantanéments pour permettre aux entreprises clientes d’accéder aux soldes, transactions et données antérieures détaillés de comptes courants – le tout normalisé pour une intégration fluide.
+J'ai géré l'API Bank, le principal produit de l’entreprise, en nombre de clients et de revenus, et le leader du marché en France. Il permet aux clients de connecter leurs données bancaires instantanéments pour permettre aux entreprises clientes d’accéder aux soldes, transactions et données antérieures détaillés de comptes courants – le tout normalisé pour une intégration fluide.
 
 Mes principaux objectifs et réalisations:
 
@@ -25,6 +25,8 @@ Mes principaux objectifs et réalisations:
 - Mise en place de l’authentification app to app sur connecteurs bancaires DSP2 afin d’améliorer les taux de conversion sur mobile (60% des utilisateurs) puis définition et exécution d’un plan de migration progressif des principaux clients
 - Développement de nouveaux connecteurs bancaires pour consolider la position de leader français de l’open banking auprès les clients du segment des services aux entreprises (compta, ERP, salaires)
 
+Powens fournit une API Open Finance qui permet aux entreprises de créer des expériences d'embedded finance et de paiement uniques.
+
 |**Méthodologie**|**Environment tech**|**Outils**|
 |----|----|----|
 |Management maigre (lean); Conception créative (design thinking); Développement agile; Scrum / Kanban; Intégration continue|Figma; Postman; Github; suite Google office; Asana; Element / Slack|Linux; Python; REST API|
@@ -33,9 +35,7 @@ Mes principaux objectifs et réalisations:
 
 _Lille, France / Jan 2021 - Sep 2021 (9 mois)_
 
-Adeo est un des leaders mondiaux de l'amélioration de l'habitat, du cadre de vie, de l'outillage et du bricolage pour les particuliers et les professionnels. Le groupe exploite 32 enseignes (dont Leroy Merlin, Weldom, Bricocenter, Zodio…), opère dans 15 pays et compte 114.000 collaborateurs.
-
-J’ai rejoint l'équipe de la Data Factory d'Adeo pour m’occuper du produit interne Data Finder, qui fournit à la fois un portail aux collaborateurs et une API aux applications du groupe pour leur permettre de facilement partager, gérer les accès et rechercher de la donnée sur le Cloud. Principalement des datasets BigQuery hébergés dans Google Cloud Platform (GCP) et des Topics Kafka.  En plus de ma personne, l'équipe était composée de 5 développeurs (2 front-ends, 2 back-ends et  1 devops), 2 technical account managers et 1 UX.
+J'ai géré le produit interne Data Finder, qui fournit à la fois un portail aux collaborateurs et une API aux applications du groupe pour leur permettre de facilement partager, gérer les accès et rechercher de la donnée sur le Cloud.
 
 Mes principaux objectifs et réalisations:
 
@@ -43,6 +43,9 @@ Mes principaux objectifs et réalisations:
 - Création d'un orchestrateur pour automatiser la souscription aux services du Data Finder pour améliorer l'expérience utilisateur et décharger l'équipe support
 - Création d'un parcourt au sein du portail pour permettre aux utilisateurs de facilement partager leur donnée via une interface plutôt que via l'API
 - Amélioration de l'expérience utilisateur autour de la gestion des demandes d'accès aux donnée
+- Écriture des spécifications, gestion du backlog et de la roadmap avec une équipe de 5 développeurs (2 front-ends, 2 back-ends et  1 devops), 2 technical account managers et 1 UX
+
+Adeo est un des leaders mondiaux de l'amélioration de l'habitat, du cadre de vie, de l'outillage et du bricolage pour les particuliers et les professionnels. Le groupe exploite 32 enseignes (dont Leroy Merlin, Weldom, Bricocenter, Zodio…), opère dans 15 pays et compte 114.000 collaborateurs.
 
 |**Méthodologie**|**Environment tech**|**Outils**|
 |----|----|----|
@@ -52,9 +55,7 @@ Mes principaux objectifs et réalisations:
 
 _Paris, France / Avr 2018 - Dec 2019 (1 an 8 mois)_
 
-I managed the API Single Invoice Cover (SIC), the first B2B API in the market allowing Factoring client mainly, to request EH to cover invoices in real-time.
-
-J'ai managé l'API Single Invoice Cover, la première API B2B sur le marché qui permette aux clients, principalement des entreprises d’affacturage, de demander de l’assurance à la facture en temps réel.
+J'ai géré le produit Single Invoice Cover(SIC), la première API B2B sur le marché permettant à des clients, principalement des entreprises d’affacturage, de demander de l’assurance à la facture en temps réel. Et ce, au sein d’une équipe pluridisciplinaire interne qui permet de gérer le produit de bout en bout.
 
 Main objectives and achievements:
 
@@ -65,6 +66,8 @@ Main objectives and achievements:
 - Etre en premier support des clients pour les aider à intégrer les services de l’API au mieux selon leurs besoins
 - Améliorer et industrialiser le produit grâce notamment à l’automatisation de nombreux processus et la mise à disposition d’un portail client pour le suivi de l’activité et la déclaration des contentieux
 
+L’agence digitale d’Euler Hermes (EHDA) est un service d’Euler Hermes, le N°1 de l’assurance crédit en France, qui a été créé dans le but d'inventer et tester de nouveaux produits en lien avec l’assurance crédit, le coeur de métier d’Euler Hermes . Elle est par conséquent organisée de manière à donner beaucoup d’autonomie aux chefs de produits pour qu’ils puissent itérer rapidement sur leurs produits grâce à un management maigre.
+
 |**Méthodologie**|**Environment tech**|**Outils**|
 |----|----|----|
 |Management maigre (lean); Conception créative (design thinking); Développement agile; Scrum / Kanban; Intégration continue|Axure (prototyping); Postman; Readme; Microsoft Visual Studio Team Services; Microsoft Dev Ops; SQL Operations Studio; Jupyter; Google office tools; Slack|Microsoft Azure; C#; PHP; JSON; Python; REST API|
@@ -73,9 +76,7 @@ Main objectives and achievements:
 
 _London, UK; Madrid, Spain / Mai 2014 - Aoüt 2017 (> 3 ans)_
 
-GENIAC offre des services qui simplifient la gestion des PME au Royaume Unis afin de permettre aux entrepreneurs de se concentrer sur le développement de leur activité. L'entreprise a mis fin à ses activités courant 2018.
-
-Arrivé en tant que premier chef de produit au sein d'une équipe 8 personnes au tout début de l'aventure GENIAC, j'ai créé le produit minimum viable de la plateforme Internet cliente qui a permis de servir les premiers clients et obtenir un investissement série A. La plateforme se décompose en 2 sous produits: un site client qui permet eux entrepreneurs d'avoir de la visibilité sur leur entreprise , sur ce que GENIAC fait pour eux et aussi d’interagir avec l'équipe service. Un site interne qui permet à l'équipe service de gérer les taches administratives des entreprises efficacement et d'interagir avec les clients.
+J'ai géré le produit GENIAC qui simplifie la gestion administrative des entrepreneurs de plus de 1000 PME aux Royaume Unis.
 
 Mes principaux objectifs et réalisations:
 
@@ -105,13 +106,15 @@ Mes principaux objectifs et réalisations:
 
 _Londres, GB / Dec 2013 - Mai 2014 (6 mois)_
 
-Business of Fashion (BoF), est un site Internet d'information sur l'industrie du mode et du luxe destiné aux professionnels du secteur. J'ai rejoins l'entreprise entant que chef de produit afin créer le site carrière de l'entreprise afin de diversifier ses sources de revenu. Le site carrière permet à des entreprises partenaires de bénéficier d'un site de présentation sur BoF ainsi que de poster des offres d'emploi sur le site auxquels les candidats peuvent postuler directement sur le site.
+J'ai géré le site carrière de l'entreprise afin de diversifier ses sources de revenu. Le site carrière permet à des entreprises partenaires de bénéficier d'un site de présentation sur BoF ainsi que de poster des offres d'emploi sur le site auxquels les candidats peuvent postuler directement sur le site.
 
 Mes principaux objectifs et réalisations:
 
 - Définition et validation du prototype en travaillant conjointement avec le fondateur ainsi que les équipes de vente et techniques.
 - Réalisation du produit minimum viable en suivant la méthodologie Agile avec l'équipe de développement basée en Slovaquie (rédaction des histoires utilisateurs incluant maquettes écrans, diagrammes UML, règles de gestion, tests).
 - Définition de la stratégie de lancement du produit ainsi que son suivi (Google Analytics, requêtes BDD).
+
+Business of Fashion (BoF), est un site Internet d'information sur l'industrie du mode et du luxe destiné aux professionnels du secteur.
 
 |**Méthodologie**|**Environment tech**|**Outils**|
 |----|----|----|

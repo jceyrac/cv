@@ -56,13 +56,13 @@ Managed Single Invoice Cover (SIC), the first B2B API in the market allowing Fac
 
 Main objectives and achievements:
 - Increase revenus thanks to higher volumes of invoices covered but contained loss ratio
-- Strenghen the relationship with the main customer of the API, Cash in Time, a factoring product developed by the bank Crédit Agricole
-- Make changes to the product to open it to new promissing markets (Germany, Belgium, US, Asia)
+- Strengthen the relationship with the main customer of the API, Cash in Time, a factoring product developed by the bank Crédit Agricole
+- Make changes to the product to open it to new promising markets (Germany, Belgium, US, Asia)
 - As the first point of contact, manage effeciently the on-boarding of new clients
 - Continuous improvement of the product, such as process automation and the delivery of a client portal to improve the claim and collection process
 
 
-The Euler Hermes Digital Agency (EHDA) is a service of Euler Hermes, the french credit insurance leader, that was created to facilitate the creation of new innovative products in relation to credit insurance, the core business of EH. It's therefore organised to give as much autonomy as possible to the products managers in order to allow quick iterations.
+The Euler Hermes Digital Agency (EHDA) is a service of Euler Hermes, the french credit insurance leader, that was created to facilitate the creation of new innovative products in relation to credit insurance, the core business of EH. It's therefore organized to give as much autonomy as possible to the products managers in order to allow quick iterations.
 
 |**Methodology**|**Tech environment**|**Tools**|
 |----|----|----|
@@ -75,18 +75,22 @@ _London, UK; Madrid, Spain / May 2014 - Aug 2017 (> 3 years)_
 Managed the GENIAC platform, simplifying the operations of 1000+ small business in the UK by enabling owners to spend their time on growth - not managing business administration and compliance.
 
 Main objectives and achievements:
-**May 2014 - July 2015+ (London)**
+
+**May 2014 - July 2015 (London)**
+
 Created and delivered the minimum viable GENIAC platform to start serving customers and secure a series A investment (see http://techcitynews.com/2015/07/02/grant-thornton-pumps-22m-into-geniac/). GENIAC is 2 products combined:
 - A website for entrepreneurs to have visibility, keep control over their business, interact with the GENIAC service team and know what’s the status of his business
 - An internal platform for the GENIAC service team to manage the companies admin effectively
 
 **July 2015 - July 2016 (London)**
+
 Following the investment, I worked on the 3 main priorities of the road map:
 - Migration of the platform to move from a monolithic Symfony application to a distributed micro services application, API based in order to scale
 - Shift the product from a desktop application to a responsive mobile first application
 - Offer services to a new segment of customer, through HR and payroll services
 
 **July 2015 - Aug 2017 (Madrid)**
+
 Work on delivering a new strategic pivot feature for GENIAC, and learned spanish.
 
 GENIAC simplifies the operating of small business in the UK, enabling owners to spend their time on growth - not managing business administration and compliance.

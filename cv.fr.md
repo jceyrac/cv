@@ -74,7 +74,7 @@ L’agence digitale d’Euler Hermes (EHDA) est un service d’Euler Hermes, le 
 
 # Chef de produit digital chez [Geniac](https://www.crunchbase.com/organization/geniac#section-overview) (freelance)
 
-_London, UK; Madrid, Spain / Mai 2014 - Aoüt 2017 (> 3 ans)_
+_London, UK; Madrid, Spain / Mai 2014 - Août 2017 (> 3 ans)_
 
 J'ai géré le produit GENIAC qui simplifie la gestion administrative des entrepreneurs de plus de 1000 PME aux Royaume Unis.
 

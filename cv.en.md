@@ -15,16 +15,16 @@ lang: en
 
 _Paris, France / Jan 2022 - Nov 2022 (11 months)_
 
-Powens is providing an Open Finance API to allow businesses to create superior embedded finance and payment experiences.
-I was the product manager of the Bank product that allows end users to connect their banking data instantly in order for businesses to access detailed balances, transactions and historical data from current accounts – fully normalized for a seamless integration.
+Managed the Bank API that allows end users to connect their banking data instantly in order for businesses to access detailed balances, transactions and historical data from current accounts – fully normalized for a seamless integration.
 
 Main objectives and achievements:
-
 - Set up agile rituals in my team of 5 to 10 developers
 - Set up analytics tools in order to be able to take data driven decisions
 - Migrated Powens’s french connectors to integrate all the available PSD2 APIs of the french market which included putting in place a roll out strategy a communication plan and support to clients
 - Set up app to app authentication on the migrated PSD2 connectors in order to increase end users conversion rates thanks to an improved user experience
-- Deliver new connectors to business and enterprise banks in oder to increase the market coverage for the business services client segment (accounting, ERP, payroll) and consolidate the leading position of Powers in the french market
+- Delivered new connectors to business and enterprise banks in oder to increase the market coverage for the business services client segment (accounting, ERP, payroll) and consolidate the leading position of Powers in the french market
+
+Powens is providing an Open Finance API to allow businesses to create superior embedded finance and payment experiences.
 
 |**Methodology**|**Tech environment**|**Tools**|
 |----|----|----|
@@ -34,15 +34,15 @@ Main objectives and achievements:
 
 _Lille, France / Jan 2021 - Sep 2021 (9 months)_
 
-Adeo is one of the world leaders in the home improvement business for individuals and housing professionals. The group has 32 brands including Leroy Merlin, Weldom, Bricocenter, Zodiac…), operates in 15 countries and hires 150,000 employees.
-
-I joined Adeo’s Data Factory team has the product manager of the Data Finder internal product offering a portal for employees and an API for applications of the group to allow them to share, manage accesses and search all the data of the group. Mainly BigQuery hosted on the Google Cloud Platform (GCP) and Kafka Topics. My cross functional team included 5 developers (2 front-ends, 2 back-ends and 1 devops), 2 technical account managers and 1 UX/UI designer.
+Managed the Data Finder internal product offering a portal for employees and an API for applications of the group to allow them to share, manage accesses and search all the data of the group. Mainly BigQuery hosted on the Google Cloud Platform (GCP) and Kafka Topics. 
 
 Main objectives and achievements:
-
 - Redesign of the access management module of the Data Finder to allow any product team of the group manage several GCP projects
 - Design and deliver an orchestrator to automate the subscription of the Data Finder services in order to increase the user experience and reduce the work load of the support team
 - Create efficient onboarding workflows to allow non tech users to easily share their data through the portal instead of the API thanks to a design driven approach
+- Managed requirements, backlog and roadmap of the product with a cross functional team including 5 developers (2 front-ends, 2 back-ends and 1 devops), 2 technical account managers and 1 UX/UI designer.
+
+Adeo is one of the world leaders in the home improvement business for individuals and housing professionals. The group has 32 brands including Leroy Merlin, Weldom, Bricocenter, Zodiac…), operates in 15 countries and hires 150,000 employees.
 
 |**Methodology**|**Tech environment**|**Tools**|
 |----|----|----|
@@ -52,16 +52,17 @@ Main objectives and achievements:
 
 _Paris, France / Apr 2018 - Dec 2019 (1 year 8 months)_
 
-I managed the API Single Invoice Cover (SIC), the first B2B API in the market allowing Factoring client mainly, to request EH to cover invoices in real-time.
+Managed Single Invoice Cover (SIC), the first B2B API in the market allowing Factoring client mainly, to request EH to cover invoices in real-time. I was part of a cross-functional team based in Paris that allowed me to own the product and manage it end to end, with sales teams located globally.
 
 Main objectives and achievements:
-
-- Manage the product with a cross functional team
 - Increase revenus thanks to higher volumes of invoices covered but contained loss ratio
 - Strenghen the relationship with the main customer of the API, Cash in Time, a factoring product developed by the bank Crédit Agricole
 - Make changes to the product to open it to new promissing markets (Germany, Belgium, US, Asia)
 - As the first point of contact, manage effeciently the on-boarding of new clients
 - Continuous improvement of the product, such as process automation and the delivery of a client portal to improve the claim and collection process
+
+
+The Euler Hermes Digital Agency (EHDA) is a service of Euler Hermes, the french credit insurance leader, that was created to facilitate the creation of new innovative products in relation to credit insurance, the core business of EH. It's therefore organised to give as much autonomy as possible to the products managers in order to allow quick iterations.
 
 |**Methodology**|**Tech environment**|**Tools**|
 |----|----|----|
@@ -71,29 +72,24 @@ Main objectives and achievements:
 
 _London, UK; Madrid, Spain / May 2014 - Aug 2017 (> 3 years)_
 
-GENIAC simplifies the operating of small business in the UK, enabling owners to spend their time on growth - not managing business administration and compliance. The company stopped servicing in 2018.
-
-I started just after the company was founded as the first product manager of the company, delivered the MVP that allowed GENIAC to get its first customers, a series A investment and then worked to scale and industrialise the product in order to serve customers more efficiently. GENIAC is 2 products combined: a website for entrepreneurs to have visibility, keep control over their business, interact with the GENIAC service team and know what’s the status of his business. An internal platform for the GENIAC service team to manage the companies admin effectively.
+Managed the GENIAC platform, simplifying the operations of 1000+ small business in the UK by enabling owners to spend their time on growth - not managing business administration and compliance.
 
 Main objectives and achievements:
+**May 2014 - July 2015+ (London)**
+Created and delivered the minimum viable GENIAC platform to start serving customers and secure a series A investment (see http://techcitynews.com/2015/07/02/grant-thornton-pumps-22m-into-geniac/). GENIAC is 2 products combined:
+- A website for entrepreneurs to have visibility, keep control over their business, interact with the GENIAC service team and know what’s the status of his business
+- An internal platform for the GENIAC service team to manage the companies admin effectively
 
-**Aug 2016 - Jul 2017 (Madrid)**
+**July 2015 - July 2016 (London)**
+Following the investment, I worked on the 3 main priorities of the road map:
+- Migration of the platform to move from a monolithic Symfony application to a distributed micro services application, API based in order to scale
+- Shift the product from a desktop application to a responsive mobile first application
+- Offer services to a new segment of customer, through HR and payroll services
 
-- Developed and launched new mobile invoicing and payroll services.
-- Improved the user experience during the on-boarding on the platform by increasing the efficiency of the backoffice processes and the UI/UX of the website.
-- Improved continuuously the plateform to support effectively the operations of more than 1000 client companies and backoffice teams in London, Glasgow and Madrid.
+**July 2015 - Aug 2017 (Madrid)**
+Work on delivering a new strategic pivot feature for GENIAC, and learned spanish.
 
-**Jul 2016 - Aug 2016 (London)**
-
-- Opened the platform to a new segment of users who are the client companies employees.
-- Migrated the front-end to be able to offer mobile services.
-- Managed the technical migration of the platform from a monolithic to a micro-services architecture to allow more flexibility, scalability and agility of the developments.
-- Scaled the product and technical team.
-
-**May 2014 - Jul 2015 (London)**
-
-- Delivered the MVP of the product to serve the first customers.
-- Secured a series A investment.
+GENIAC simplifies the operating of small business in the UK, enabling owners to spend their time on growth - not managing business administration and compliance.
 
 |**Methodology**|**Tech environment**|**Tools**|
 |----|----|----|
@@ -103,13 +99,19 @@ Main objectives and achievements:
 
 _London, UK / Dec 2013 - May 2014 (6 months)_
 
-Business of Fashion (BoF), is an editorial platform providing strategical information on the fashion and luxury industries. I joined the company to create the BOF Careers website , part of a plan to diversify the sources of revenues. This new service allows companies to benefit from a marketing page on BOF and post job adds. Candidates can directly apply on the website.
+Managed BoF's new career platform from defining the product to its launch.
 
 Main objectives and achievements:
+- Work in agile as the product owner with a development team in Slovakia
+- Work closely with various stakeholders to gather requirements 
+- Write user stories and test acceptance criteria
+- Draw wireframes and flow diagrams
+- Define backlog priorities
+- User Acceptance Testing
+- Define launch strategy
+- Define KPIs to track trough DB queries and google analysics
 
-- Designed and validated the prototype by working closely with the founder, the sales and tech teams.
-- Delivered the minimun viable product following agile methodology with a development team based in Slovakia (user stories, wireframes, UML diagrams, tests...).
-- Launched successfully the product with close monitoring (Google Analytics, SQL queries).
+The Business of Fashion is a website providing daily updates on fashion for fashion creators, executives and entrepreneurs.
 
 |**Methodology**|**Tech environment**|**Tools**|
 |----|----|----|
@@ -125,7 +127,6 @@ _Paris, France / Jan 2006 - Apr 2013 (7 years 4 months)_
 Managed a team of 10 developers and a budget of €4.5M to deliver a new banking professional loan branch platform for two retail banks of the group.
 
 Main objectives and achievements:
-
 - Planned and followed the delivery of applications
 - Budgeted new applications, features or change requests
 - Communicated on the progress of projects to management boards
@@ -138,7 +139,6 @@ Main objectives and achievements:
 Delivered a €0.8M budget new SEPA wire transfer application from design to launch for the retail customers.
 
 Main objectives and achievements:
-
 - Defined the product vision and convinced the stakeholders to adhere to it
 - Gathered, wrote and prioritised product and customer requirements (user stories, wireframes, flow diagrams)
 - Conducted user acceptance tests
@@ -150,7 +150,6 @@ Main objectives and achievements:
 Managed a team of 4 developers and a budget of €1M to deliver successfully a new life insurance e-banking application for customers to manage online their insurance contracts.
 
 Main objectives and achievements:
-
 - Manage a team of 4 Java developers
 - Delivered the application on time and budget
 - Business team's single point of contact for all technical aspects of the application

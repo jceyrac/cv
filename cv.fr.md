@@ -27,9 +27,9 @@ Mes principaux objectifs et réalisations:
 
 Powens fournit une API Open Finance qui permet aux entreprises de créer des expériences d'embedded finance et de paiement uniques.
 
-|**Méthodologie**|**Environment tech**|**Outils**|
+|**Méthodologie**|**Outils**|**Environment Tech**|
 |----|----|----|
-|Management maigre (lean); Conception créative (design thinking); Développement agile; Scrum / Kanban; Intégration continue|Figma; Postman; Github; suite Google office; Asana; Element / Slack|Linux; Python; REST API|
+|Management maigre (lean); Conception créative (design thinking); Développement agile; Scrum / Kanban; Intégration continue|Figma; Postman; Github; suite Google office; Asana; Notion.so; Element / Slack|Linux; Python; REST API|
 
 # Chef de produit digital chez [Adeo](https://www.adeo.com/) (freelance)
 
@@ -47,7 +47,7 @@ Mes principaux objectifs et réalisations:
 
 Adeo est un des leaders mondiaux de l'amélioration de l'habitat, du cadre de vie, de l'outillage et du bricolage pour les particuliers et les professionnels. Le groupe exploite 32 enseignes (dont Leroy Merlin, Weldom, Bricocenter, Zodio…), opère dans 15 pays et compte 114.000 collaborateurs.
 
-|**Méthodologie**|**Environment tech**|**Outils**|
+|**Méthodologie**|**Outils**|**Environment Tech**|
 |----|----|----|
 |Management maigre (lean); Conception créative (design thinking); Développement agile; Scrum / Kanban; Intégration continue|Google Cloud Platform; Figma; Miro; Postman; Github; go.hugo.io; suite Google office; Slack|Google Cloud Platform; Vue.js; Node.js; REST API|
 
@@ -68,7 +68,7 @@ Main objectives and achievements:
 
 L’agence digitale d’Euler Hermes (EHDA) est un service d’Euler Hermes, le N°1 de l’assurance crédit en France, qui a été créé dans le but d'inventer et tester de nouveaux produits en lien avec l’assurance crédit, le coeur de métier d’Euler Hermes . Elle est par conséquent organisée de manière à donner beaucoup d’autonomie aux chefs de produits pour qu’ils puissent itérer rapidement sur leurs produits grâce à un management maigre.
 
-|**Méthodologie**|**Environment tech**|**Outils**|
+|**Méthodologie**|**Outils**|**Environment Tech**|
 |----|----|----|
 |Management maigre (lean); Conception créative (design thinking); Développement agile; Scrum / Kanban; Intégration continue|Axure (prototyping); Postman; Readme; Microsoft Visual Studio Team Services; Microsoft Dev Ops; SQL Operations Studio; Jupyter; Google office tools; Slack|Microsoft Azure; C#; PHP; JSON; Python; REST API|
 
@@ -98,9 +98,9 @@ Mes principaux objectifs et réalisations:
 - Conception, réalisation et lancement du produit minimum viable de la plateforme GENIAC afin de valider la pertinence du produit auprès de clients pionniers.
 - Sécuriser la levée de fonds série A.
 
-|**Méthodologie**|**Environment tech**|**Outils**|
+|**Méthodologie**|**Outils**|**Environment Tech**|
 |----|----|----|
-|Management maigre (lean); Conception créative (design thinking); Développement agile; Scrum / Kanban; Intégration continue; Programmation piloté par les tests (test driven development)|Axure; Jira; Confluence; Selenium; Jenkins; Testlodge; Google Analytics; suite Google office; Slack|AngularJS; PHP; Java; Symfony; Salesforce; Twinfield; Hotdocs; Duedil; MongoDB; MySQ; NodeJS; Docker; AmazonWS; Segment|
+|Management maigre (lean); Conception créative (design thinking); Développement agile; Scrum / Kanban; Intégration continue; Programmation piloté par les tests (test driven development)|Axure; Jira; Confluence; Selenium; Jenkins; Testlodge; Google Analytics; suite Google office; Slack|AngularJS; PHP; Java; Symfony; Salesforce; Twinfield; Hotdocs; Duedil; MongoDB; MySQL; NodeJS; Docker; AmazonWS; Segment|
 
 # Chef de produit digital chez [The Business of Fashion](https://www.businessoffashion.com/) (freelance)
 
@@ -116,9 +116,9 @@ Mes principaux objectifs et réalisations:
 
 Business of Fashion (BoF), est un site Internet d'information sur l'industrie du mode et du luxe destiné aux professionnels du secteur.
 
-|**Méthodologie**|**Environment tech**|**Outils**|
+|**Méthodologie**|**Outils**|**Environment Tech**|
 |----|----|----|
-|Management maigre (lean); Conception créative (design thinking); Développement agile; Scrum / Kanban; Intégration continue|Jira; Google Analytics; suite Google office|PHP; WordPres; MySQL; AmazonWS|
+|Management maigre (lean); Conception créative (design thinking); Développement agile; Scrum / Kanban; Intégration continue|Jira; Google Analytics; suite Google office|PHP; WordPress; MySQL; AmazonWS|
 
 # Consultant IT chez [Accenture](https://www.accenture.com/) (freelance)
 
@@ -169,6 +169,6 @@ Développeur Java et intégrateur sur la partie frontale de la nouvelle applicat
 
 Développeur Java sur le partie frontale de la nouvelle application Internet client de la Banque Populaire. L'originalité de ce projet est qu'il suivait la méthodologie de programmation pilotée par modèle UML (Model Driven Development).
 
-|**Méthodologie**|**Environment tech**|**Outils**|
+|**Méthodologie**|**Outils**|**Environment Tech**|
 |----|----|----|
 |Gestion de projet Accenture; Management en cascade (Waterfall); Intégration continue; Programmation pilotée par le modèle (model driven development)|MSProject; MSOffice; QualityCenter; Eclipse; Selenium|UML; Design Patterns; J2EE; Spring Web Flow; Oracle Weblogic Portal/Server; Jenkins; CSS; Javascript; HTML; XML; JSP; Perl|

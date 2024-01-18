@@ -11,7 +11,6 @@ lang: es
 
 _Paris, Francia / Ene 2022 - Nov 2022 (11 meses)_
 
-Powens proporciona una API de finanzas abiertas para permitir que las empresas creen experiencias de pago y finanzas integradas superiores.
 Fui el gerente de producto del producto Bank que permite a los usuarios finales conectar sus datos bancarios instantáneamente para que las empresas accedan a saldos detallados, transacciones y datos históricos de cuentas corrientes, completamente normalizados para una integración perfecta.
 
 Principales objetivos y logros:
@@ -22,6 +21,8 @@ Principales objetivos y logros:
 - Configure la autenticación de aplicación a aplicación en los conectores PSD2 migrados para aumentar las tasas de conversión de los usuarios finales gracias a una experiencia de usuario mejorada
 - Entregar nuevos conectores a los bancos comerciales y empresariales para aumentar la cobertura de mercado para el segmento de clientes de servicios comerciales (contabilidad, ERP, nómina) y consolidar la posición de liderazgo de Powers en el mercado francés.
 
+Powens proporciona una API de finanzas abiertas para permitir que las empresas creen experiencias de pago y finanzas integradas superiores.
+
 |**Methodo**|**Herramientas**|**Entorno tecnológico**|
 |----|----|----|
 |Lean startup; Design thinking; Agile development; Scrum / Kanban; Continuous integration|Figma; Postman; Github; Google office applications; Asana; Element / Slack|Linux; Python; REST API|
@@ -30,8 +31,6 @@ Principales objetivos y logros:
 
 _Lille, Francia / Ene 2021 - Sep 2021 (9 meses)_
 
-Adeo es uno de los líderes mundiales en el negocio de mejoras para el hogar para particulares y profesionales de la vivienda. El grupo cuenta con 32 marcas entre las que se encuentran Leroy Merlin, Weldom, Bricocenter, Zodiac…), opera en 15 países y emplea a 150.000 empleados.
-
 Me uní al equipo de Data Factory de Adeo que tiene como gerente de producto el producto interno Data Finder que ofrece un portal para empleados y una API para aplicaciones del grupo para permitirles compartir, administrar accesos y buscar todos los datos del grupo. Principalmente BigQuery alojado en Google Cloud Platform (GCP) y Kafka Topics. Mi equipo multifuncional incluía 5 desarrolladores (2 front-end, 2 back-end y 1 devops), 2 gerentes de cuentas técnicas y 1 diseñador de UX/UI.
 
 Principales objetivos y logros:
@@ -39,6 +38,8 @@ Principales objetivos y logros:
 - Rediseño del módulo de gestión de acceso del Buscador de datos para permitir que cualquier equipo de producto del grupo gestione varios proyectos de GCP
 - Diseñar y entregar un orquestador para automatizar la suscripción de los servicios de Data Finder para aumentar la experiencia del usuario y reducir la carga de trabajo del equipo de soporte.
 - Cree flujos de trabajo de incorporación eficientes para permitir que los usuarios no técnicos compartan fácilmente sus datos a través del portal en lugar de la API gracias a un enfoque basado en el diseño
+
+Adeo es uno de los líderes mundiales en el negocio de mejoras para el hogar para particulares y profesionales de la vivienda. El grupo cuenta con 32 marcas entre las que se encuentran Leroy Merlin, Weldom, Bricocenter, Zodiac…), opera en 15 países y emplea a 150.000 empleados.
 
 |**Methodo**|**Herramientas**|**Entorno tecnológico**|
 |----|----|----|
@@ -67,9 +68,9 @@ Principales objetivos y logros:
 
 _Londres, RU; Madrid, España / May 2014 - Ago 2017 (> 3 años)_
 
-GENIAC simplifica el funcionamiento de las pequeñas empresas en el Reino Unido, lo que permite a los propietarios dedicar su tiempo al crecimiento, sin gestionar la administración comercial y el cumplimiento. La empresa dejó de dar servicio en 2018.
-
 Comencé justo después de que se fundó la empresa como el primer gerente de producto de la empresa, entregué el MVP que permitió a GENIAC obtener sus primeros clientes, una inversión de serie A y luego trabajé para escalar e industrializar el producto para servir a los clientes de manera más eficiente. GENIAC es 2 productos combinados: un sitio web para que los emprendedores tengan visibilidad, mantengan el control sobre su negocio, interactúen con el equipo de servicio de GENIAC y conozcan el estado de su negocio. Una plataforma interna para que el equipo de servicio de GENIAC gestione la administración de empresas de forma eficaz.
+
+GENIAC simplifica el funcionamiento de las pequeñas empresas en el Reino Unido, lo que permite a los propietarios dedicar su tiempo al crecimiento, sin gestionar la administración comercial y el cumplimiento. La empresa dejó de dar servicio en 2018.
 
 Principales objetivos y logros:
 
@@ -93,13 +94,13 @@ Principales objetivos y logros:
 
 |**Methodo**|**Herramientas**|**Entorno tecnológico**|
 |----|----|----|
-|Lean startup; Design thinking; Agile development; Scrum; Continuous integration; Test Driven Development|Axure; Jira; Confluence; Selenium; Jenkins; Testlodge; Google Analytics; Google office Entorno tecnológico; Slack|AngularJS; PHP; Java; Symfony; Salesforce; Twinfield; Hotdocs; Duedil; MongoDB; MySQ; NodeJS; Docker; AmazonWS; Segment|
+|Lean startup; Design thinking; Agile development; Scrum; Continuous integration; Test Driven Development|Axure; Jira; Confluence; Selenium; Jenkins; Testlodge; Google Analytics; Google office Entorno tecnológico; Slack|AngularJS; PHP; Java; Symfony; Salesforce; Twinfield; Hotdocs; Duedil; MongoDB; MySQL; NodeJS; Docker; AmazonWS; Segment|
 
 # Jefe de Producto en [The Business of Fashion](https://www.businessoffashion.com/) (freelance)
 
 _Londres, RU / Dic 2013 - May 2014 (6 meses)_
 
-Business of Fashion (BoF), es una plataforma editorial que proporciona información estratégica sobre las industrias de la moda y el lujo. Me uní a la empresa para crear el sitio web BOF Careers, parte de un plan para diversificar las fuentes de ingresos. Este nuevo servicio permite a las empresas beneficiarse de una página de marketing en BOF y publicar ofertas de trabajo. Los candidatos pueden postularse directamente en el sitio web.
+Me uní a la empresa para crear el sitio web BOF Careers, parte de un plan para diversificar las fuentes de ingresos. Este nuevo servicio permite a las empresas beneficiarse de una página de marketing en BOF y publicar ofertas de trabajo. Los candidatos pueden postularse directamente en el sitio web.
 
 Principales objetivos y logros:
 
@@ -107,9 +108,11 @@ Principales objetivos y logros:
 - Entregué el producto mínimo viable siguiendo el método ágil con un equipo de desarrollo con base en Eslovaquia (historias de usuarios, wireframes, diagramas UML, pruebas...).
 - Lancé con éxito el producto con seguimiento cercano (Google Analytics, consultas SQL).
 
+Business of Fashion (BoF), es una plataforma editorial que proporciona información estratégica sobre las industrias de la moda y el lujo. 
+
 |**Methodo**|**Herramientas**|**Entorno tecnológico**|
 |----|----|----|
-|Lean startup; Agile development; Scrum; Continuous integration; Behavior Driven Development|Jira; Google Analytics; Google office Entorno tecnológico|PHP; WordPres; MySQL; AmazonWS|
+|Lean startup; Agile development; Scrum; Continuous integration; Behavior Driven Development|Jira; Google Analytics; Google office Entorno tecnológico|PHP; WordPress; MySQL; AmazonWS|
 
 # Consultor de TI en [Accenture](https://www.accenture.com/) (freelance)
 

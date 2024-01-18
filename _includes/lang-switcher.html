@@ -1,12 +1,13 @@
 {% for lang in site.languages %}
     {% assign lang_name = site.data[lang].l10n.lang_name %}
     {% if lang == site.active_lang %}
-{{ lang_name }}
+        <!--{{ lang_name }}-->
+        <img src="{{ site.baseurl }}/assets/img/{{ lang_name }}.svg" alt="drawing" width="30"/>
     {% else %}
         {% if lang == site.default_lang %}
-<a href=" {{ site.baseurl }}{{ page.url }}">{{ lang_name }}</a>
+        <a href=" {{ site.baseurl }}{{ page.url }}"><img src="{{ site.baseurl }}/assets/img/{{ lang_name }}.svg" alt="drawing" width="30"/></a>
         {% else %}
-<a href="{{ site.baseurl }}/{{ lang }}{{ page.url }}">{{ lang_name }}</a>
+       <a href="{{ site.baseurl }}/{{ lang }}{{ page.url }}"> <img src="{{ site.baseurl }}/assets/img/{{ lang_name }}.svg" alt="drawing" width="30"/></a>
         {% endif %}
     {% endif %}
 {% endfor %}

@@ -25,7 +25,7 @@ Powens proporciona una API de finanzas abiertas para permitir que las empresas c
 
 |**Methodo**|**Herramientas**|**Entorno tecnológico**|
 |----|----|----|
-|Lean startup; Design thinking; Agile development; Scrum / Kanban; Continuous integration|Figma; Postman; Github; Google office applications; Asana; Element / Slack|Linux; Python; REST API|
+|Lean startup; Design thinking; Agile development; Scrum / Kanban; Continuous integration|Figma; Postman; Github; Google office applications; Asana; Notion.so; Element / Slack|Linux; Python; REST API|
 
 # Jefe de Producto en [Adeo](https://www.adeo.com/) (freelance)
 

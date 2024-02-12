@@ -9,26 +9,27 @@
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li class="p-name">
-            {%- if site.author -%}
+            <!--{%- if site.author -%}
               {{ site.author | escape }}
             {%- else -%}
               {{ site.data.l10n.title | escape }}
             {%- endif -%}
-            </li>
+            </li>-->
             {%- if site.email -%}
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {%- endif -%}
+            {%- include social.html -%}
         </ul>
-        <div class="lang-switcher">
-          {% include lang-switcher.html %}
-        </div>
+     
       </div>
-
       <div class="footer-col footer-col-2">
-        {%- include social.html -%}
+        
       </div>
 
       <div class="footer-col footer-col-3">
+        <div class="lang-switcher">
+          {% include lang-switcher.html %}
+        </div>
         <p>{{- site.description | escape -}}</p>
       </div>
     </div>

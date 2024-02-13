@@ -9,14 +9,19 @@ lang: de
 
 [1]:{{ base.url }}/assets/download/cv-de.pdf
 
+<p>&nbsp;</p>
+
 ## Schlüsselerlebnisse
 
-# Product Manager bei [Powens](https://www.powens.com/) (Freelance)
-
-_Paris, France / Jan 2022 - Nov 2022 (11 Monate)_
+### Product Manager bei [Powens](https://www.powens.com/) (Freelance)
+**Paris, France / Jan 2022 - Nov 2022 (11 Monate)**
 
 Ich war Produktmanager für das Produkt "Bank", das es Endnutzern ermöglicht, ihre Bankdaten sofort zu verbinden, damit Unternehmen auf detaillierte Salden, Transaktionen und historische Daten von Girokonten zugreifen können - vollständig normalisiert für eine nahtlose Integration.
 
+<details markdown=block>
+<summary markdown=span>_Mehr sehen ..._  
+</summary>
+&nbsp;  
 Hauptaufgaben und Erfolge:
 
 - Einführung von agilen Ritualen in meinem Team von 5 bis 10 Entwicklern
@@ -27,41 +32,46 @@ Hauptaufgaben und Erfolge:
 
 Powens stellt eine Open Finance API zur Verfügung, die es Unternehmen ermöglicht, hervorragende eingebettete Finanz- und Zahlungserfahrungen zu schaffen.
 
-|**Methodology**|**Tools**|**Tech environment**|
-|----|----|----|
-|Lean startup; Design thinking; Agile development; Scrum / Kanban; Continuous integration|Figma; Postman; Github; Google office applications; Asana; Notion.so; Element / Slack|Linux; Python; REST API|
+**Tags**  
+`Lean startup` `Design thinking` `Agile development` `Scrum / Kanban` `Continuous integration` `Figma` `Postman` `Github` `Google office applications` `Asana` `Notion.so` `Element / Slack` `Linux` `Python` `REST API`
 
-# Product Manager bei [Adeo](https://www.adeo.com/) (freelance)
+</details>
+<p>&nbsp;</p>  
 
-_Lille, France / Jan 2021 - Sep 2021 (9 Monate)_
+### Product Manager bei [Adeo](https://www.adeo.com/) (freelance)
+***Lille, France / Jan 2021 - Sep 2021 (9 Monate)**
 
 Verwaltete das interne Produkt Data Finder, das ein Portal für Mitarbeiter und eine API für Anwendungen der Gruppe bietet, damit diese alle Daten der Gruppe teilen, Zugriffe verwalten und durchsuchen können. Hauptsächlich BigQuery, gehostet auf der Google Cloud Platform (GCP) und Kafka Topics.
 
+<details markdown=block>
+<summary markdown=span>_Mehr sehen ..._  
+</summary>
+&nbsp;  
 Hauptaufgaben und Erfolge:
 
-. Neugestaltung der UX des Webportals und der API, damit die Benutzer die Daten ihrer Produkte effizienter verwalten können
-. Erstellung eines Orchestrators zur Automatisierung des Onboarding-Prozesses, um das Benutzererlebnis zu verbessern und das Support-Team zu entlasten
-. Schaffung neuer Funktionen auf dem Webportal, die es technisch nicht versierten Nutzern ermöglichen, ihre Daten ohne API zu teilen und zu verwalten
-. Neugestaltung der UX rund um das Datenzugriffsmanagement für Datenleser und -besitzer 
-. Hinzufügen der Möglichkeit, Kafka-Themen im Data Finder zu verwalten
+- Neugestaltung der UX des Webportals und der API, damit die Benutzer die Daten ihrer Produkte effizienter verwalten können
+- Erstellung eines Orchestrators zur Automatisierung des Onboarding-Prozesses, um das Benutzererlebnis zu verbessern und das Support-Team zu entlasten
+- Schaffung neuer Funktionen auf dem Webportal, die es technisch nicht versierten Nutzern ermöglichen, ihre Daten ohne API zu teilen und zu verwalten
+- Neugestaltung der UX rund um das Datenzugriffsmanagement für Datenleser und -besitzer 
+- Hinzufügen der Möglichkeit, Kafka-Themen im Data Finder zu verwalten
 
 ADEO ist der europäische Marktführer und der drittgrößte globale Akteur auf dem Heimwerkermarkt mit einem Umsatz von 26 Milliarden Euro im Jahr 2020.
 
-|**Methodology**|**Tools**|**Tech environment**|
-|----|----|----|
-|Lean startup; Design thinking; Agile development; Scrum / Kanban; Continuous integration|Google Cloud Platform; Figma; Miro; Postman; Github; go.hugo.io; Google office applications; Slack|Google Cloud Platform; Vue.js; Node.js; REST API|
+**Tags**  
+`Lean startup` `Design thinking` `Agile development` `Scrum` `Kanban` `Continuous integration` `Google Cloud Platform` `Figma` `Miro` `Postman` `Github` `go.hugo.io` `Google office applications` `Slack` `Vue.js` `Node.js` `REST API`
 
-# Product Manager bei [Allianz Trade (ex-Euler Hermes)](https://www.allianz-trade.fr/) (freelance)
+</details>
+<p>&nbsp;</p>  
 
-_Paris, France / Apr 2018 - Dez 2019 (1 Jahr 8 Monate)_
+### Product Manager bei [Allianz Trade (ex-Euler Hermes)](https://www.allianz-trade.fr/) (freelance)
+**Paris, France / Apr 2018 - Dez 2019 (1 Jahr 8 Monate)**
 
-M
-Product ManagerProduct Manager
-Euler Hermes Digital Agency · FreelanceEuler Hermes Digital Agency · Freelance
-Apr 2018 - Dec 2019 · 1 yr 9 mosApr 2018 - Dec 2019 · 1 yr 9 mos
-Paris Area, France · HybridParis Area, France · Hybrid
 Verwaltete Single Invoice Cover (SIC), die erste B2B-API auf dem Markt, die es hauptsächlich Factoring-Kunden ermöglicht, EH anzufordern, Rechnungen in Echtzeit zu begleichen. Ich war Teil eines funktionsübergreifenden Teams mit Sitz in Paris, das es mir ermöglichte, das Produkt zu besitzen und es durchgängig zu verwalten, wobei die Vertriebsteams weltweit verteilt waren.
 
+<details markdown=block>
+<summary markdown=span>_Mehr sehen ..._  
+</summary>
+&nbsp;  
 Hauptaufgaben und Erfolge:
 
 - Steigerung des Umsatzes dank eines höheren Volumens an gedeckten Rechnungen bei gleichzeitiger Begrenzung der Verlustquote
@@ -72,16 +82,21 @@ Hauptaufgaben und Erfolge:
 
 Die Euler Hermes Digital Agency (EHDA) ist ein Service von Euler Hermes, dem führenden französischen Kreditversicherungsanbieter, der gegründet wurde, um die Entwicklung neuer innovativer Produkte im Zusammenhang mit der Kreditversicherung, dem Kerngeschäft von EH, zu erleichtern. Daher ist es so organisiert, dass den Produktmanagern so viel Autonomie wie möglich eingeräumt wird, um schnelle Iterationen zu ermöglichen.
 
-|**Methodology**|**Tools**|**Tech environment**|
-|----|----|----|
-|Lean startup; Design thinking; Agile development; Scrum / Kanban; Continuous integration|Axure (prototyping); Postman; Readme; Microsoft Visual Studio Team Services; Microsoft Dev Ops; SQL Operations Studio; Jupyter; Google office tools; Slack|Microsoft Azure; C#; PHP; JSON; Python; REST API|
+**Tags**  
+`Lean startup` `Design thinking` `Agile development` `Scrum` `Continuous integration` `Axure (prototyping)` `Postman` `Readme` `Microsoft Visual Studio Team Services` `Microsoft Dev Ops` `SQL Operations Studio` `Jupyter` `Google office tools` `Slack` `Microsoft Azure` `C#` `PHP` `Python` `REST API`
 
-# Product Manager bei [Geniac](https://www.crunchbase.com/organization/geniac#section-overview) (freelance)
+</details>
+<p>&nbsp;</p>  
 
-_London, UK; Madrid, Spain / Mai 2014 - Aug 2017 (> 3 Jahe)_
+### Product Manager bei [Geniac](https://www.crunchbase.com/organization/geniac#section-overview) (freelance)
+**London, UK; Madrid, Spain / Mai 2014 - Aug 2017 (> 3 Jahe)**
 
 Verwaltete die GENIAC-Plattform und vereinfachte die Abläufe von über 1.000 Kleinunternehmen im Vereinigten Königreich, indem es den Eigentümern ermöglichte, ihre Zeit dem Wachstum zu widmen – statt sich um die Geschäftsverwaltung und Compliance zu kümmern.
 
+<details markdown=block>
+<summary markdown=span>_Mehr sehen ..._  
+</summary>
+&nbsp;  
 Hauptaufgaben und Erfolge:
 
 - Beeinflussung der Gründer, den Lean-Startup-Ansatz zu übernehmen
@@ -99,16 +114,21 @@ GENIAC ist eine Kombination aus 2 Produkten:
 - Eine Website, die es Unternehmern ermöglicht, sich einen Überblick zu verschaffen, die Kontrolle über ihr Unternehmen zu behalten, sich mit dem 
 - GENIAC-Serviceteam zu interagieren und den Status seines Unternehmens zu erfahren Eine interne Plattform für das GENIAC-Serviceteam, um die Verwaltung des Unternehmens effektiv zu verwalten
 
-|**Methodology**|**Tools**|**Tech environment**|
-|----|----|----|
-|Lean startup; Design thinking; Agile development; Scrum; Continuous integration; Test Driven Development|Axure; Jira; Confluence; Selenium; Jenkins; Testlodge; Google Analytics; Google office tools; Slack|AngularJS; PHP; Java; Symfony; Salesforce; Twinfield; Hotdocs; Duedil; MongoDB; MySQL; NodeJS; Docker; AmazonWS; Segment|
+**Tags**  
+`Lean startup` `Design thinking` `Agile development` `Scrum` `Continuous integration` `Test Driven Development` `Axure` `Jira` `Confluence` `Selenium` `Jenkins` `Testlodge` `Google Analytics` `Google office tools` `Slack` `AngularJS` `PHP` `Java` `Symfony` `Salesforce` `Twinfield` `Hotdocs` `Duedil` `MongoDB` `MySQL` `NodeJS` `Docker` `AmazonWS` `Segment`
 
-# Product Owner bei [The Business of Fashion](https://www.businessoffashion.com/) (freelance)
+</details>
+<p>&nbsp;</p>  
 
-_London, UK / Dez 2013 - Mai 2014 (6 Monate)_
+### Product Owner bei [The Business of Fashion](https://www.businessoffashion.com/) (freelance)
+**London, UK / Dez 2013 - Mai 2014 (6 Monate)**
 
 Erstellung, Aufbau und erfolgreiche Einführung einer neuen Unternehmens- und Karriere-Website.
 
+<details markdown=block>
+<summary markdown=span>_Mehr sehen ..._  
+</summary>
+&nbsp;  
 Hauptaufgaben und Erfolge:
 
 - Erfolgreiche Auslieferung des MVP
@@ -119,14 +139,19 @@ Hauptaufgaben und Erfolge:
 - Einflussnahme auf das BoF, um eine Beta-Test-Strategie und -Umgebung zu schaffen
 - Definition von KPIs und Berichten zur Verfolgung der Produkteffizienz nach der Einführung, um datengestützte Entscheidungen zu treffen
 
-|**Methodology**|**Tools**|**Tech environment**|
-|----|----|----|
-|Lean startup; Agile development; Scrum; Continuous integration; Behavior Driven Development|Jira; Google Analytics; Google office tools|PHP; WordPress; MySQL; AmazonWS|
+**Tags**  
+`Lean startup` `Agile development` `Scrum` `Continuous integration` `Behavior Driven Development` `Jira` `Google Analytics` `Google office tools` `PHP` `WordPress` `MySQL` `AmazonWS`
 
-# IT Berater bei [Accenture](https://www.accenture.com/) (freelance)
+</details>
+<p>&nbsp;</p>  
 
-_Paris, France / Jan 2006 - Apr 2013 (7 Jahre 4 Monate)_
+### IT Berater bei [Accenture](https://www.accenture.com/) (freelance)
+**Paris, France / Jan 2006 - Apr 2013 (7 Jahre 4 Monate)**
 
+<details markdown=block>
+<summary markdown=span>_Mehr sehen ..._  
+</summary>
+&nbsp;  
 
 **IT-Projektleiter bei Société Générale (2 Jahre)**
 
@@ -164,6 +189,8 @@ Hauptaufgaben und Erfolge:
 
 Aufbau des Front-Ends der E-Banking-Anwendung des neuen Kunden nach der modellgesteuerten Entwicklungsmethodik.
 
-|**Methodology**|**Tools**|**Tech environment**|
-|----|----|----|
-|Accenture methodology; Waterfall project delivery; Continuous integration; Model Driven Development|MSProject; MSOffice; QualityCenter; Eclipse; Selenium|UML; Design Patterns; J2EE; Spring Web Flow; Oracle Weblogic Portal/Server; Jenkins; CSS; Javascript; HTML; XML; JSP; Perl|
+**Tags**  
+`Waterfall project delivery` `Continuous integration` `Model Driven Development``MSProject` `MSOffice` `QualityCenter` `Eclipse` `Selenium` `UML` `Design Patterns` `J2EE` `Spring Web Flow` `Oracle Weblogic Portal/Server` `Jenkins` `CSS` `Javascript` `JQuery` `HTML` `XML` `JSP` `Perl`
+
+</details>
+<p>&nbsp;</p>  

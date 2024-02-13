@@ -54,7 +54,7 @@ Main objectives and achievements:
 
 Adeo is one of the world leaders in the home improvement business for individuals and housing professionals. The group has 32 brands including Leroy Merlin, Weldom, Bricocenter, Zodiac…), operates in 15 countries and hires 150,000 employees.
 
-**Tags**
+**Tags**  
 `Lean startup` `Design thinking` `Agile development` `Scrum` `Kanban` `Continuous integration` `Google Cloud Platform` `Figma` `Miro` `Postman` `Github` `go.hugo.io` `Google office applications` `Slack` `Vue.js` `Node.js` `REST API`
 
 </details>
@@ -79,7 +79,7 @@ Main objectives and achievements:
 
 The Euler Hermes Digital Agency (EHDA) is a service of Euler Hermes, the french credit insurance leader, that was created to facilitate the creation of new innovative products in relation to credit insurance, the core business of EH. It's therefore organized to give as much autonomy as possible to the products managers in order to allow quick iterations.
 
-**Tags**
+**Tags**  
 `Lean startup` `Design thinking` `Agile development` `Scrum` `Continuous integration` `Axure (prototyping)` `Postman` `Readme` `Microsoft Visual Studio Team Services` `Microsoft Dev Ops` `SQL Operations Studio` `Jupyter` `Google office tools` `Slack` `Microsoft Azure` `C#` `PHP` `Python` `REST API`
 
 </details>
@@ -115,7 +115,7 @@ Work on delivering a new strategic pivot feature for GENIAC, and learned spanish
 
 GENIAC simplifies the operating of small business in the UK, enabling owners to spend their time on growth - not managing business administration and compliance.
 
-**Tags** 
+**Tags**  
 `Lean startup` `Design thinking` `Agile development` `Scrum` `Continuous integration` `Test Driven Development` `Axure` `Jira` `Confluence` `Selenium` `Jenkins` `Testlodge` `Google Analytics` `Google office tools` `Slack` `AngularJS` `PHP` `Java` `Symfony` `Salesforce` `Twinfield` `Hotdocs` `Duedil` `MongoDB` `MySQL` `NodeJS` `Docker` `AmazonWS` `Segment`
 
 </details>
@@ -142,7 +142,7 @@ Main objectives and achievements:
 
 The Business of Fashion is a website providing daily updates on fashion for fashion creators, executives and entrepreneurs.
 
-**Tags**
+**Tags**  
 `Lean startup` `Agile development` `Scrum` `Continuous integration` `Behavior Driven Development` `Jira` `Google Analytics` `Google office tools` `PHP` `WordPress` `MySQL` `AmazonWS`
 
 </details>
@@ -196,7 +196,7 @@ Managed the release of a €8M budget new banking professional loan branch appli
 
 Built the front-end of the new new customer's e-banking application following the model driven development methodology.
 
-**Tags**
+**Tags**  
 `Waterfall project delivery` `Continuous integration` `Model Driven Development``MSProject` `MSOffice` `QualityCenter` `Eclipse` `Selenium` `UML` `Design Patterns` `J2EE` `Spring Web Flow` `Oracle Weblogic Portal/Server` `Jenkins` `CSS` `Javascript` `JQuery` `HTML` `XML` `JSP` `Perl`
 </details>
 <p>&nbsp;</p>  

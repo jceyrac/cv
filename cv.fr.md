@@ -9,14 +9,19 @@ lang: fr
 
 [1]:{{ base.url }}/assets/download/cv-fr.pdf
 
+<p>&nbsp;</p>
+
 ## Expérience professionnelle
 
-# Chef de produit digital chez [Powens](https://www.powens.com/) (freelance)
-
-_Paris, France / Jan 2022 - Nov 2022 (11 mois)_
+### Chef de produit digital chez [Powens](https://www.powens.com/) (freelance)
+**Paris, France / Jan 2022 - Nov 2022 (11 mois)**
 
 J'ai géré l'API Bank, le principal produit de l’entreprise, en nombre de clients et de revenus, et le leader du marché en France. Il permet aux clients de connecter leurs données bancaires instantanéments pour permettre aux entreprises clientes d’accéder aux soldes, transactions et données antérieures détaillés de comptes courants – le tout normalisé pour une intégration fluide.
 
+<details markdown=block>
+<summary markdown=span>_Voir plus ..._  
+</summary>
+&nbsp;  
 Mes principaux objectifs et réalisations:
 
 - Mise en place de rituels agiles au sein d’une équipe de 5 à 10 développeurs
@@ -27,16 +32,21 @@ Mes principaux objectifs et réalisations:
 
 Powens fournit une API Open Finance qui permet aux entreprises de créer des expériences d'embedded finance et de paiement uniques.
 
-|**Méthodologie**|**Outils**|**Environment Tech**|
-|----|----|----|
-|Management maigre (lean); Conception créative (design thinking); Développement agile; Scrum / Kanban; Intégration continue|Figma; Postman; Github; suite Google office; Asana; Notion.so; Element / Slack|Linux; Python; REST API|
+**Tags**  
+`Lean startup` `Design thinking` `Agile development` `Scrum / Kanban` `Continuous integration` `Figma` `Postman` `Github` `Google office applications` `Asana` `Notion.so` `Element / Slack` `Linux` `Python` `REST API`
 
-# Chef de produit digital chez [Adeo](https://www.adeo.com/) (freelance)
+</details>
+<p>&nbsp;</p>  
 
-_Lille, France / Jan 2021 - Sep 2021 (9 mois)_
+### Chef de produit digital chez [Adeo](https://www.adeo.com/) (freelance)
+**Lille, France / Jan 2021 - Sep 2021 (9 mois)**
 
 J'ai géré le produit interne Data Finder, qui fournit à la fois un portail aux collaborateurs et une API aux applications du groupe pour leur permettre de facilement partager, gérer les accès et rechercher de la donnée sur le Cloud.
 
+<details markdown=block>
+<summary markdown=span>_Voir plus ..._  
+</summary>
+&nbsp; 
 Mes principaux objectifs et réalisations:
 
 - Refonte de la gestion des accès aux données sur le portail pour permettre à une équipe produit de gérer plusieurs projets GCP
@@ -47,17 +57,22 @@ Mes principaux objectifs et réalisations:
 
 Adeo est un des leaders mondiaux de l'amélioration de l'habitat, du cadre de vie, de l'outillage et du bricolage pour les particuliers et les professionnels. Le groupe exploite 32 enseignes (dont Leroy Merlin, Weldom, Bricocenter, Zodio…), opère dans 15 pays et compte 114.000 collaborateurs.
 
-|**Méthodologie**|**Outils**|**Environment Tech**|
-|----|----|----|
-|Management maigre (lean); Conception créative (design thinking); Développement agile; Scrum / Kanban; Intégration continue|Google Cloud Platform; Figma; Miro; Postman; Github; go.hugo.io; suite Google office; Slack|Google Cloud Platform; Vue.js; Node.js; REST API|
+**Tags**  
+`Lean startup` `Design thinking` `Agile development` `Scrum` `Kanban` `Continuous integration` `Google Cloud Platform` `Figma` `Miro` `Postman` `Github` `go.hugo.io` `Google office applications` `Slack` `Vue.js` `Node.js` `REST API`
 
-# Chef de produit API chez [Allianz Trade (ex-Euler Hermes)](https://www.allianz-trade.fr/) (freelance)
+</details>
+<p>&nbsp;</p>  
 
-_Paris, France / Avr 2018 - Dec 2019 (1 an 8 mois)_
+### Chef de produit API chez [Allianz Trade (ex-Euler Hermes)](https://www.allianz-trade.fr/) (freelance)
+**Paris, France / Avr 2018 - Dec 2019 (1 an 8 mois)**
 
 J'ai géré le produit Single Invoice Cover(SIC), la première API B2B sur le marché permettant à des clients, principalement des entreprises d’affacturage, de demander de l’assurance à la facture en temps réel. Et ce, au sein d’une équipe pluridisciplinaire interne qui permet de gérer le produit de bout en bout.
 
-Main objectives and achievements:
+<details markdown=block>
+<summary markdown=span>_Voir plus ..._  
+</summary>
+&nbsp; 
+Mes principaux objectifs et réalisations:
 
 - Gestion du produit au sein d’une équipe pluridisciplinaire interne qui permettait de gérer le produit de bout en bout
 - Augmenter les revenus du produit en augmentant le volume de factures assurées tout en contenant la sinistralité
@@ -68,16 +83,21 @@ Main objectives and achievements:
 
 L’agence digitale d’Euler Hermes (EHDA) est un service d’Euler Hermes, le N°1 de l’assurance crédit en France, qui a été créé dans le but d'inventer et tester de nouveaux produits en lien avec l’assurance crédit, le coeur de métier d’Euler Hermes . Elle est par conséquent organisée de manière à donner beaucoup d’autonomie aux chefs de produits pour qu’ils puissent itérer rapidement sur leurs produits grâce à un management maigre.
 
-|**Méthodologie**|**Outils**|**Environment Tech**|
-|----|----|----|
-|Management maigre (lean); Conception créative (design thinking); Développement agile; Scrum / Kanban; Intégration continue|Axure (prototyping); Postman; Readme; Microsoft Visual Studio Team Services; Microsoft Dev Ops; SQL Operations Studio; Jupyter; Google office tools; Slack|Microsoft Azure; C#; PHP; JSON; Python; REST API|
+**Tags**  
+`Lean startup` `Design thinking` `Agile development` `Scrum` `Continuous integration` `Axure (prototyping)` `Postman` `Readme` `Microsoft Visual Studio Team Services` `Microsoft Dev Ops` `SQL Operations Studio` `Jupyter` `Google office tools` `Slack` `Microsoft Azure` `C#` `PHP` `Python` `REST API`
 
-# Chef de produit digital chez [Geniac](https://www.crunchbase.com/organization/geniac#section-overview) (freelance)
+</details>
+<p>&nbsp;</p>  
 
-_London, UK; Madrid, Spain / Mai 2014 - Août 2017 (> 3 ans)_
+### Chef de produit digital chez [GENIAC](https://www.crunchbase.com/organization/geniac#section-overview) (freelance)
+**London, UK; Madrid, Spain / Mai 2014 - Août 2017 (> 3 ans)**
 
 J'ai géré le produit GENIAC qui simplifie la gestion administrative des entrepreneurs de plus de 1000 PME aux Royaume Unis.
 
+<details markdown=block>
+<summary markdown=span>_Voir plus ..._  
+</summary>
+&nbsp; 
 Mes principaux objectifs et réalisations:
 
 **Août 2016 - Juillet 2017 (Madrid)**
@@ -98,16 +118,21 @@ Mes principaux objectifs et réalisations:
 - Conception, réalisation et lancement du produit minimum viable de la plateforme GENIAC afin de valider la pertinence du produit auprès de clients pionniers.
 - Sécuriser la levée de fonds série A.
 
-|**Méthodologie**|**Outils**|**Environment Tech**|
-|----|----|----|
-|Management maigre (lean); Conception créative (design thinking); Développement agile; Scrum / Kanban; Intégration continue; Programmation piloté par les tests (test driven development)|Axure; Jira; Confluence; Selenium; Jenkins; Testlodge; Google Analytics; suite Google office; Slack|AngularJS; PHP; Java; Symfony; Salesforce; Twinfield; Hotdocs; Duedil; MongoDB; MySQL; NodeJS; Docker; AmazonWS; Segment|
+**Tags** 
+`Lean startup` `Design thinking` `Agile development` `Scrum` `Continuous integration` `Test Driven Development` `Axure` `Jira` `Confluence` `Selenium` `Jenkins` `Testlodge` `Google Analytics` `Google office tools` `Slack` `AngularJS` `PHP` `Java` `Symfony` `Salesforce` `Twinfield` `Hotdocs` `Duedil` `MongoDB` `MySQL` `NodeJS` `Docker` `AmazonWS` `Segment`
 
-# Chef de produit digital chez [The Business of Fashion](https://www.businessoffashion.com/) (freelance)
+</details>
+<p>&nbsp;</p>  
 
-_Londres, GB / Dec 2013 - Mai 2014 (6 mois)_
+### Chef de produit digital chez [The Business of Fashion](https://www.businessoffashion.com/) (freelance)
+**Londres, GB / Dec 2013 - Mai 2014 (6 mois)**
 
 J'ai géré le site carrière de l'entreprise afin de diversifier ses sources de revenu. Le site carrière permet à des entreprises partenaires de bénéficier d'un site de présentation sur BoF ainsi que de poster des offres d'emploi sur le site auxquels les candidats peuvent postuler directement sur le site.
 
+<details markdown=block>
+<summary markdown=span>_Voir plus ..._  
+</summary>
+&nbsp; 
 Mes principaux objectifs et réalisations:
 
 - Définition et validation du prototype en travaillant conjointement avec le fondateur ainsi que les équipes de vente et techniques.
@@ -116,14 +141,19 @@ Mes principaux objectifs et réalisations:
 
 Business of Fashion (BoF), est un site Internet d'information sur l'industrie du mode et du luxe destiné aux professionnels du secteur.
 
-|**Méthodologie**|**Outils**|**Environment Tech**|
-|----|----|----|
-|Management maigre (lean); Conception créative (design thinking); Développement agile; Scrum / Kanban; Intégration continue|Jira; Google Analytics; suite Google office|PHP; WordPress; MySQL; AmazonWS|
+**Tags**  
+`Lean startup` `Agile development` `Scrum` `Continuous integration` `Behavior Driven Development` `Jira` `Google Analytics` `Google office tools` `PHP` `WordPress` `MySQL` `AmazonWS`
 
-# Consultant IT chez [Accenture](https://www.accenture.com/) (freelance)
+</details>
+<p>&nbsp;</p>  
 
-_Paris, France / Jan 2006 - Avr 2013 (7 ans 4 mois)_
+### Consultant IT chez [Accenture](https://www.accenture.com/) (freelance)
+**Paris, France / Jan 2006 - Avr 2013 (7 ans 4 mois)**
 
+<details markdown=block>
+<summary markdown=span>_Voir plus ..._  
+</summary>
+&nbsp; 
 
 **Manageur de projet informatique pour la Société Générale (2 ans)**
 
@@ -161,7 +191,7 @@ Mes principaux objectifs et réalisations:
 - Unique point de contact technique des équipes produit chapeautant les dépendances de toutes les autres équipes techniques impliquées dans le projet
 - Réalisation d'ateliers de conduite du changement sur les nouveaux outils avec les utilisateurs
 
-**Développeur Java et Intégrateur pour le Crédit du Nord ((1 an 4 mois)**
+**Développeur Java et Intégrateur pour le Crédit du Nord (1 an 4 mois)**
 
 Développeur Java et intégrateur sur la partie frontale de la nouvelle application d’octroi de crédit aux entreprises intégrée au poste de travail des conseillers Crédit du Nord. Entant qu'intégrateur final j'étais responsable de la bonne intégration de toutes les briques techniques de l'application pour laquelle 15 développeurs contribuaient.
 
@@ -169,6 +199,8 @@ Développeur Java et intégrateur sur la partie frontale de la nouvelle applicat
 
 Développeur Java sur le partie frontale de la nouvelle application Internet client de la Banque Populaire. L'originalité de ce projet est qu'il suivait la méthodologie de programmation pilotée par modèle UML (Model Driven Development).
 
-|**Méthodologie**|**Outils**|**Environment Tech**|
-|----|----|----|
-|Gestion de projet Accenture; Management en cascade (Waterfall); Intégration continue; Programmation pilotée par le modèle (model driven development)|MSProject; MSOffice; QualityCenter; Eclipse; Selenium|UML; Design Patterns; J2EE; Spring Web Flow; Oracle Weblogic Portal/Server; Jenkins; CSS; Javascript; HTML; XML; JSP; Perl|
+**Tags** 
+`Waterfall project delivery` `Continuous integration` `Model Driven Development``MSProject` `MSOffice` `QualityCenter` `Eclipse` `Selenium` `UML` `Design Patterns` `J2EE` `Spring Web Flow` `Oracle Weblogic Portal/Server` `Jenkins` `CSS` `Javascript` `JQuery` `HTML` `XML` `JSP` `Perl`
+
+</details>
+<p>&nbsp;</p>  

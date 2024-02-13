@@ -10,6 +10,7 @@ lang: en
 [1]:{{ base.url }}/assets/download/cv-en.pdf
 
 <p>&nbsp;</p>
+
 ## Key experiences
 
 ### Product manager at [Powens](https://www.powens.com/) (freelance)

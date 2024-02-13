@@ -7,12 +7,15 @@ lang: es
 
 ## Experiencia profesional
 
-# Jefe de Producto en [Powens](https://www.powens.com/) (freelance)
-
-_Paris, Francia / Ene 2022 - Nov 2022 (11 meses)_
+### Jefe de Producto en [Powens](https://www.powens.com/) (freelance)
+**Paris, Francia / Ene 2022 - Nov 2022 (11 meses)**
 
 Fui el gerente de producto del producto Bank que permite a los usuarios finales conectar sus datos bancarios instantáneamente para que las empresas accedan a saldos detallados, transacciones y datos históricos de cuentas corrientes, completamente normalizados para una integración perfecta.
 
+<details markdown=block>
+<summary markdown=span>_Ver más ..._  
+</summary>
+&nbsp;  
 Principales objetivos y logros:
 
 - Establecer rituales ágiles en mi equipo de 5 a 10 desarrolladores
@@ -23,16 +26,21 @@ Principales objetivos y logros:
 
 Powens proporciona una API de finanzas abiertas para permitir que las empresas creen experiencias de pago y finanzas integradas superiores.
 
-|**Methodo**|**Herramientas**|**Entorno tecnológico**|
-|----|----|----|
-|Lean startup; Design thinking; Agile development; Scrum / Kanban; Continuous integration|Figma; Postman; Github; Google office applications; Asana; Notion.so; Element / Slack|Linux; Python; REST API|
+**Tags**  
+`Lean startup` `Design thinking` `Agile development` `Scrum / Kanban` `Continuous integration` `Figma` `Postman` `Github` `Google office applications` `Asana` `Notion.so` `Element / Slack` `Linux` `Python` `REST API`
 
-# Jefe de Producto en [Adeo](https://www.adeo.com/) (freelance)
+</details>
+<p>&nbsp;</p>  
 
-_Lille, Francia / Ene 2021 - Sep 2021 (9 meses)_
+### Jefe de Producto en [Adeo](https://www.adeo.com/) (freelance)
+**Lille, Francia / Ene 2021 - Sep 2021 (9 meses)**
 
 Me uní al equipo de Data Factory de Adeo que tiene como gerente de producto el producto interno Data Finder que ofrece un portal para empleados y una API para aplicaciones del grupo para permitirles compartir, administrar accesos y buscar todos los datos del grupo. Principalmente BigQuery alojado en Google Cloud Platform (GCP) y Kafka Topics. Mi equipo multifuncional incluía 5 desarrolladores (2 front-end, 2 back-end y 1 devops), 2 gerentes de cuentas técnicas y 1 diseñador de UX/UI.
 
+<details markdown=block>
+<summary markdown=span>_Ver más ..._  
+</summary>
+&nbsp;  
 Principales objetivos y logros:
 
 - Rediseño del módulo de gestión de acceso del Buscador de datos para permitir que cualquier equipo de producto del grupo gestione varios proyectos de GCP
@@ -41,16 +49,21 @@ Principales objetivos y logros:
 
 Adeo es uno de los líderes mundiales en el negocio de mejoras para el hogar para particulares y profesionales de la vivienda. El grupo cuenta con 32 marcas entre las que se encuentran Leroy Merlin, Weldom, Bricocenter, Zodiac…), opera en 15 países y emplea a 150.000 empleados.
 
-|**Methodo**|**Herramientas**|**Entorno tecnológico**|
-|----|----|----|
-|Lean startup; Design thinking; Agile development; Scrum / Kanban; Continuous integration|Google Cloud Platform; Figma; Miro; Postman; Github; go.hugo.io; Google office applications; Slack|Google Cloud Platform; Vue.js; Node.js; REST API|
+**Tags**  
+`Lean startup` `Design thinking` `Agile development` `Scrum` `Kanban` `Continuous integration` `Google Cloud Platform` `Figma` `Miro` `Postman` `Github` `go.hugo.io` `Google office applications` `Slack` `Vue.js` `Node.js` `REST API`
 
-# Jefe de Producto API en [Allianz Trade (ex-Euler Hermes)](https://www.allianz-trade.fr/) (freelance)
+</details>
+<p>&nbsp;</p>  
 
-_Paris, Francia / Abr 2018 - Dic 2019 (1 años 8 meses)_
+### Jefe de Producto API en [Allianz Trade (ex-Euler Hermes)](https://www.allianz-trade.fr/) (freelance)
+**Paris, Francia / Abr 2018 - Dic 2019 (1 años 8 meses)**
 
 Administré la API Single Invoice Cover (SIC), la primera API B2B en el mercado que permite al cliente de Factoring principalmente, solicitar EH para cubrir facturas en tiempo real.
 
+<details markdown=block>
+<summary markdown=span>_Ver más ..._  
+</summary>
+&nbsp;  
 Principales objetivos y logros:
 
 - Gestionar el producto con un equipo multifuncional.
@@ -60,18 +73,23 @@ Principales objetivos y logros:
 - Como primer punto de contacto, gestionar de manera eficiente la incorporación de nuevos clientes
 - Mejora continua del producto, como la automatización de procesos y la entrega de un portal de clientes para mejorar el proceso de reclamo y cobranza
 
-|**Methodo**|**Herramientas**|**Entorno tecnológico**|
-|----|----|----|
-|Lean startup; Design thinking; Agile development; Scrum / Kanban; Continuous integration|Axure (prototyping); Postman; Readme; Microsoft Visual Studio Team Services; Microsoft Dev Ops; SQL Operations Studio; Jupyter; Google office Entorno tecnológico; Slack|Microsoft Azure; C#; PHP; JSON; Python; REST API|
+**Tags**  
+`Lean startup` `Design thinking` `Agile development` `Scrum` `Continuous integration` `Axure (prototyping)` `Postman` `Readme` `Microsoft Visual Studio Team Services` `Microsoft Dev Ops` `SQL Operations Studio` `Jupyter` `Google office tools` `Slack` `Microsoft Azure` `C#` `PHP` `Python` `REST API`
 
-# Jefe de Producto en [Geniac](https://www.crunchbase.com/organization/geniac#section-overview) (freelance)
+</details>
+<p>&nbsp;</p>  
 
-_Londres, RU; Madrid, España / May 2014 - Ago 2017 (> 3 años)_
+### Jefe de Producto en [Geniac](https://www.crunchbase.com/organization/geniac#section-overview) (freelance)
+**Londres, RU; Madrid, España / May 2014 - Ago 2017 (> 3 años)**
 
 Comencé justo después de que se fundó la empresa como el primer gerente de producto de la empresa, entregué el MVP que permitió a GENIAC obtener sus primeros clientes, una inversión de serie A y luego trabajé para escalar e industrializar el producto para servir a los clientes de manera más eficiente. GENIAC es 2 productos combinados: un sitio web para que los emprendedores tengan visibilidad, mantengan el control sobre su negocio, interactúen con el equipo de servicio de GENIAC y conozcan el estado de su negocio. Una plataforma interna para que el equipo de servicio de GENIAC gestione la administración de empresas de forma eficaz.
 
 GENIAC simplifica el funcionamiento de las pequeñas empresas en el Reino Unido, lo que permite a los propietarios dedicar su tiempo al crecimiento, sin gestionar la administración comercial y el cumplimiento. La empresa dejó de dar servicio en 2018.
 
+<details markdown=block>
+<summary markdown=span>_Ver más ..._  
+</summary>
+&nbsp;  
 Principales objetivos y logros:
 
 **Ago 2016 - Jul 2017 (Madrid)**
@@ -92,16 +110,21 @@ Principales objetivos y logros:
 - Entregar el MVP del producto para atender a los primeros clientes.
 - Aseguró una inversión de serie A.
 
-|**Methodo**|**Herramientas**|**Entorno tecnológico**|
-|----|----|----|
-|Lean startup; Design thinking; Agile development; Scrum; Continuous integration; Test Driven Development|Axure; Jira; Confluence; Selenium; Jenkins; Testlodge; Google Analytics; Google office Entorno tecnológico; Slack|AngularJS; PHP; Java; Symfony; Salesforce; Twinfield; Hotdocs; Duedil; MongoDB; MySQL; NodeJS; Docker; AmazonWS; Segment|
+**Tags**  
+`Lean startup` `Design thinking` `Agile development` `Scrum` `Continuous integration` `Test Driven Development` `Axure` `Jira` `Confluence` `Selenium` `Jenkins` `Testlodge` `Google Analytics` `Google office tools` `Slack` `AngularJS` `PHP` `Java` `Symfony` `Salesforce` `Twinfield` `Hotdocs` `Duedil` `MongoDB` `MySQL` `NodeJS` `Docker` `AmazonWS` `Segment`
 
-# Jefe de Producto en [The Business of Fashion](https://www.businessoffashion.com/) (freelance)
+</details>
+<p>&nbsp;</p>  
 
-_Londres, RU / Dic 2013 - May 2014 (6 meses)_
+### Jefe de Producto en [The Business of Fashion](https://www.businessoffashion.com/) (freelance)
+**Londres, RU / Dic 2013 - May 2014 (6 meses)**
 
 Me uní a la empresa para crear el sitio web BOF Careers, parte de un plan para diversificar las fuentes de ingresos. Este nuevo servicio permite a las empresas beneficiarse de una página de marketing en BOF y publicar ofertas de trabajo. Los candidatos pueden postularse directamente en el sitio web.
 
+<details markdown=block>
+<summary markdown=span>_Ver más ..._  
+</summary>
+&nbsp;  
 Principales objetivos y logros:
 
 - Diseñé y validé el prototipo trabajando en estrecha colaboración con el fundador, los equipos de ventas y tecnología.
@@ -110,15 +133,19 @@ Principales objetivos y logros:
 
 Business of Fashion (BoF), es una plataforma editorial que proporciona información estratégica sobre las industrias de la moda y el lujo. 
 
-|**Methodo**|**Herramientas**|**Entorno tecnológico**|
-|----|----|----|
-|Lean startup; Agile development; Scrum; Continuous integration; Behavior Driven Development|Jira; Google Analytics; Google office Entorno tecnológico|PHP; WordPress; MySQL; AmazonWS|
+**Tags**  
+`Lean startup` `Agile development` `Scrum` `Continuous integration` `Behavior Driven Development` `Jira` `Google Analytics` `Google office tools` `PHP` `WordPress` `MySQL` `AmazonWS`
 
-# Consultor de TI en [Accenture](https://www.accenture.com/) (freelance)
+</details>
+<p>&nbsp;</p>  
 
-_Paris, Francia / Ene 2006 - Abr 2013 (7 años 4 meses)_
+### Consultor de TI en [Accenture](https://www.accenture.com/) (freelance)
+**Paris, Francia / Ene 2006 - Abr 2013 (7 años 4 meses)**
 
-
+<details markdown=block>
+<summary markdown=span>_Ver más ..._  
+</summary>
+&nbsp;  
 **Gerente de proyectos de TI para Société Générale (2 años)**
 
 Gestioné un equipo de 10 desarrolladores y un presupuesto de 4,5 millones de euros para entregar una nueva plataforma de sucursal bancaria de préstamos profesionales para dos bancos minoristas del grupo.
@@ -163,6 +190,8 @@ Gestioné el lanzamiento de una nueva aplicación de sucursal de préstamo profe
 
 Desarrollé el front-end de la nueva aplicación de banca electrónica para nuevos clientes siguiendo el modelo de desarrollo impulsado por Methodo.
 
-|**Methodo**|**Herramientas**|**Entorno tecnológico**|
-|----|----|----|
-|Accenture Methodo; Waterfall project delivery; Continuous integration; Model Driven Development|MSProject; MSOffice; QualityCenter; Eclipse; Selenium|UML; Design Patterns; J2EE; Spring Web Flow; Oracle Weblogic Portal/Server; Jenkins; CSS; Javascript; HTML; XML; JSP; Perl|
+**Tags**  
+`Waterfall project delivery` `Continuous integration` `Model Driven Development``MSProject` `MSOffice` `QualityCenter` `Eclipse` `Selenium` `UML` `Design Patterns` `J2EE` `Spring Web Flow` `Oracle Weblogic Portal/Server` `Jenkins` `CSS` `Javascript` `JQuery` `HTML` `XML` `JSP` `Perl`
+
+</details>
+<p>&nbsp;</p>  

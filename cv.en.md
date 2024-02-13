@@ -9,14 +9,18 @@ lang: en
 
 [1]:{{ base.url }}/assets/download/cv-en.pdf
 
+<p>&nbsp;</p>
 ## Key experiences
 
-# Product manager at [Powens](https://www.powens.com/) (freelance)
-
-_Paris, France / Jan 2022 - Nov 2022 (11 months)_
+### Product manager at [Powens](https://www.powens.com/) (freelance)
+**Paris, France / Jan 2022 - Nov 2022 (11 months)**
 
 Managed the Bank API that allows end users to connect their banking data instantly in order for businesses to access detailed balances, transactions and historical data from current accounts – fully normalized for a seamless integration.
 
+<details markdown=block>
+<summary markdown=span>_See more ..._  
+</summary>
+&nbsp;  
 Main objectives and achievements:
 - Set up agile rituals in my team of 5 to 10 developers
 - Set up analytics tools in order to be able to take data driven decisions
@@ -26,16 +30,21 @@ Main objectives and achievements:
 
 Powens is providing an Open Finance API to allow businesses to create superior embedded finance and payment experiences.
 
-|**Methodology**|**Tools**|**Tech environment**|
-|----|----|----|
-|Lean startup; Design thinking; Agile development; Scrum / Kanban; Continuous integration|Figma; Postman; Github; Google office applications; Asana; Notion.so; Element / Slack|Linux; Python; REST API|
+**Tags**  
+`Lean startup` `Design thinking` `Agile development` `Scrum / Kanban` `Continuous integration` `Figma` `Postman` `Github` `Google office applications` `Asana` `Notion.so` `Element / Slack` `Linux` `Python` `REST API`
 
-# Product manager at [Adeo](https://www.adeo.com/) (freelance)
+</details>
+<p>&nbsp;</p>  
 
-_Lille, France / Jan 2021 - Sep 2021 (9 months)_
+### Product manager at [Adeo](https://www.adeo.com/) (freelance)
+**Lille, France / Jan 2021 - Sep 2021 (9 months)**
 
 Managed the Data Finder internal product offering a portal for employees and an API for applications of the group to allow them to share, manage accesses and search all the data of the group. Mainly BigQuery hosted on the Google Cloud Platform (GCP) and Kafka Topics. 
 
+<details markdown=block>
+<summary markdown=span>_See more ..._  
+</summary>
+&nbsp;  
 Main objectives and achievements:
 - Redesign of the access management module of the Data Finder to allow any product team of the group manage several GCP projects
 - Design and deliver an orchestrator to automate the subscription of the Data Finder services in order to increase the user experience and reduce the work load of the support team
@@ -44,16 +53,21 @@ Main objectives and achievements:
 
 Adeo is one of the world leaders in the home improvement business for individuals and housing professionals. The group has 32 brands including Leroy Merlin, Weldom, Bricocenter, Zodiac…), operates in 15 countries and hires 150,000 employees.
 
-|**Methodology**|**Tools**|**Tech environment**|
-|----|----|----|
-|Lean startup; Design thinking; Agile development; Scrum / Kanban; Continuous integration|Google Cloud Platform; Figma; Miro; Postman; Github; go.hugo.io; Google office applications; Slack|Google Cloud Platform; Vue.js; Node.js; REST API|
+**Tags**
+`Lean startup` `Design thinking` `Agile development` `Scrum` `Kanban` `Continuous integration` `Google Cloud Platform` `Figma` `Miro` `Postman` `Github` `go.hugo.io` `Google office applications` `Slack` `Vue.js` `Node.js` `REST API`
 
-# API Product manager at [Allianz Trade (ex-Euler Hermes)](https://www.allianz-trade.fr/) (freelance)
+</details>
+<p>&nbsp;</p>  
 
-_Paris, France / Apr 2018 - Dec 2019 (1 year 8 months)_
+### API Product manager at [Allianz Trade (ex-Euler Hermes)](https://www.allianz-trade.fr/) (freelance)
+**Paris, France / Apr 2018 - Dec 2019 (1 year 8 months)**
 
 Managed Single Invoice Cover (SIC), the first B2B API in the market allowing Factoring client mainly, to request EH to cover invoices in real-time. I was part of a cross-functional team based in Paris that allowed me to own the product and manage it end to end, with sales teams located globally.
 
+<details markdown=block>
+<summary markdown=span>_See more ..._  
+</summary>
+&nbsp;  
 Main objectives and achievements:
 - Increase revenus thanks to higher volumes of invoices covered but contained loss ratio
 - Strengthen the relationship with the main customer of the API, Cash in Time, a factoring product developed by the bank Crédit Agricole
@@ -64,16 +78,21 @@ Main objectives and achievements:
 
 The Euler Hermes Digital Agency (EHDA) is a service of Euler Hermes, the french credit insurance leader, that was created to facilitate the creation of new innovative products in relation to credit insurance, the core business of EH. It's therefore organized to give as much autonomy as possible to the products managers in order to allow quick iterations.
 
-|**Methodology**|**Tools**|**Tech environment**|
-|----|----|----|
-|Lean startup; Design thinking; Agile development; Scrum / Kanban; Continuous integration|Axure (prototyping); Postman; Readme; Microsoft Visual Studio Team Services; Microsoft Dev Ops; SQL Operations Studio; Jupyter; Google office tools; Slack|Microsoft Azure; C#; PHP; JSON; Python; REST API|
+**Tags**
+`Lean startup` `Design thinking` `Agile development` `Scrum` `Continuous integration` `Axure (prototyping)` `Postman` `Readme` `Microsoft Visual Studio Team Services` `Microsoft Dev Ops` `SQL Operations Studio` `Jupyter` `Google office tools` `Slack` `Microsoft Azure` `C#` `PHP` `Python` `REST API`
 
-# Product manager at [Geniac](https://www.crunchbase.com/organization/geniac#section-overview) (freelance)
+</details>
+<p>&nbsp;</p>  
 
-_London, UK; Madrid, Spain / May 2014 - Aug 2017 (> 3 years)_
+### Product manager at [Geniac](https://www.crunchbase.com/organization/geniac#section-overview) (freelance)
+**London, UK; Madrid, Spain / May 2014 - Aug 2017 (> 3 years)**
 
 Managed the GENIAC platform, simplifying the operations of 1000+ small business in the UK by enabling owners to spend their time on growth - not managing business administration and compliance.
 
+<details markdown=block>
+<summary markdown=span>_See more ..._  
+</summary>
+&nbsp;  
 Main objectives and achievements:
 
 **May 2014 - July 2015 (London)**
@@ -95,16 +114,21 @@ Work on delivering a new strategic pivot feature for GENIAC, and learned spanish
 
 GENIAC simplifies the operating of small business in the UK, enabling owners to spend their time on growth - not managing business administration and compliance.
 
-|**Methodology**|**Tools**|**Tech environment**|
-|----|----|----|
-|Lean startup; Design thinking; Agile development; Scrum; Continuous integration; Test Driven Development|Axure; Jira; Confluence; Selenium; Jenkins; Testlodge; Google Analytics; Google office tools; Slack|AngularJS; PHP; Java; Symfony; Salesforce; Twinfield; Hotdocs; Duedil; MongoDB; MySQL; NodeJS; Docker; AmazonWS; Segment|
+**Tags** 
+`Lean startup` `Design thinking` `Agile development` `Scrum` `Continuous integration` `Test Driven Development` `Axure` `Jira` `Confluence` `Selenium` `Jenkins` `Testlodge` `Google Analytics` `Google office tools` `Slack` `AngularJS` `PHP` `Java` `Symfony` `Salesforce` `Twinfield` `Hotdocs` `Duedil` `MongoDB` `MySQL` `NodeJS` `Docker` `AmazonWS` `Segment`
 
-# Product owner at [The Business of Fashion](https://www.businessoffashion.com/) (freelance)
+</details>
+<p>&nbsp;</p>  
 
-_London, UK / Dec 2013 - May 2014 (6 months)_
+### Product owner at [The Business of Fashion](https://www.businessoffashion.com/) (freelance)
+**London, UK / Dec 2013 - May 2014 (6 months)**
 
 Managed BoF's new career platform from defining the product to its launch.
 
+<details markdown=block>
+<summary markdown=span>_See more ..._  
+</summary>
+&nbsp;  
 Main objectives and achievements:
 - Work in agile as the product owner with a development team in Slovakia
 - Work closely with various stakeholders to gather requirements 
@@ -117,14 +141,19 @@ Main objectives and achievements:
 
 The Business of Fashion is a website providing daily updates on fashion for fashion creators, executives and entrepreneurs.
 
-|**Methodology**|**Tools**|**Tech environment**|
-|----|----|----|
-|Lean startup; Agile development; Scrum; Continuous integration; Behavior Driven Development|Jira; Google Analytics; Google office tools|PHP; WordPress; MySQL; AmazonWS|
+**Tags**
+`Lean startup` `Agile development` `Scrum` `Continuous integration` `Behavior Driven Development` `Jira` `Google Analytics` `Google office tools` `PHP` `WordPress` `MySQL` `AmazonWS`
 
-# IT Consultant at [Accenture](https://www.accenture.com/) (freelance)
+</details>
+<p>&nbsp;</p>  
 
-_Paris, France / Jan 2006 - Apr 2013 (7 years 4 months)_
+### IT Consultant at [Accenture](https://www.accenture.com/) (freelance)
+**Paris, France / Jan 2006 - Apr 2013 (7 years 4 months)**
 
+<details markdown=block>
+<summary markdown=span>_See more ..._  
+</summary>
+&nbsp;  
 
 **IT project manager for Société Générale (2 ans)**
 
@@ -136,7 +165,6 @@ Main objectives and achievements:
 - Communicated on the progress of projects to management boards
 - Identified critical dependencies of projects to follow them closely
 - Trained teams on new development and application frameworks
-
 
 **Digital product manager for Crédit du Nord (10 months)**
 
@@ -167,6 +195,7 @@ Managed the release of a €8M budget new banking professional loan branch appli
 
 Built the front-end of the new new customer's e-banking application following the model driven development methodology.
 
-|**Methodology**|**Tools**|**Tech environment**|
-|----|----|----|
-|Accenture methodology; Waterfall project delivery; Continuous integration; Model Driven Development|MSProject; MSOffice; QualityCenter; Eclipse; Selenium|UML; Design Patterns; J2EE; Spring Web Flow; Oracle Weblogic Portal/Server; Jenkins; CSS; Javascript; HTML; XML; JSP; Perl|
+**Tags**
+`Waterfall project delivery` `Continuous integration` `Model Driven Development``MSProject` `MSOffice` `QualityCenter` `Eclipse` `Selenium` `UML` `Design Patterns` `J2EE` `Spring Web Flow` `Oracle Weblogic Portal/Server` `Jenkins` `CSS` `Javascript` `JQuery` `HTML` `XML` `JSP` `Perl`
+</details>
+<p>&nbsp;</p>  

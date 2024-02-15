@@ -2,12 +2,12 @@
     {% assign lang_name = site.data[lang].l10n.lang_name %}
     {% if lang == site.active_lang %}
         <!--{{ lang_name }}-->
-        <img src="{{ site.baseurl }}/assets/img/{{ lang_name }}.svg" alt="drawing" width="30"/>
+        <img src="{{ site.baseurl }}/assets/img/{{ lang_name }}.svg" alt="drawing" width="20"/>
     {% else %}
         {% if lang == site.default_lang %}
-        <a href=" {{ site.baseurl }}{{ page.url }}"><img src="{{ site.baseurl }}/assets/img/{{ lang_name }}.svg" alt="drawing" width="30"/></a>
+        <a href=" {{ site.baseurl }}{{ page.url }}"><img src="{{ site.baseurl }}/assets/img/{{ lang_name }}.svg" alt="drawing" width="20"/></a>
         {% else %}
-       <a href="{{ site.baseurl }}/{{ lang }}{{ page.url }}"> <img src="{{ site.baseurl }}/assets/img/{{ lang_name }}.svg" alt="drawing" width="30"/></a>
+       <a href="{{ site.baseurl }}/{{ lang }}{{ page.url }}"> <img src="{{ site.baseurl }}/assets/img/{{ lang_name }}.svg" alt="drawing" width="20"/></a>
         {% endif %}
     {% endif %}
 {% endfor %}

@@ -13,6 +13,12 @@ lang: en
 
 ## Key experiences
 
+### Product Owner / Scrum Master at [Vaudoise Assurances](https://www.vaudoise.ch/) (consultant)
+**Lausanne, Switzerland / April 2024 - Current**
+
+Creating a Cloud Service Center (called the "Cloud Assembly Factory") to provide the IT infrastructure and Microsoft Azure environments necessary for the new products of the Digital Transformation. I am also responsible for coaching, eventulizing and implementing agility within my two multidisciplinary teams by assuming the role of Scrum Master.
+
+
 ### Product manager at [Powens](https://www.powens.com/) (freelance)
 **Paris, France / Jan 2022 - Nov 2022 (11 months)**
 

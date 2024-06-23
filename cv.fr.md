@@ -13,6 +13,13 @@ lang: fr
 
 ## Expérience professionnelle
 
+### Chef de produit digital / Scrum Master chez [Vaudoise Assurances](https://www.vaudoise.ch/) (consultant)
+**Lausanne, Suisse / Avril 2024 - Présent**
+
+Je participe activement à la création d'un centre de service Cloud (appelé la "Cloud Assembly Factory") pour fournir l'infrastructure IT et les environnements Microsoft Azure nécessaires aux nouveaux produits de la Transformation Digitale. Je suis par ailleurs résponsable du coaching, de l'évengélisation et de mise en place de l'agilité au sein de mes deux équipes pluridisciplinaires en assumant le rôle de Scrum Master.
+
+Vaudoise Assurances is one of the ten largest private insurance companies in the Swiss market.
+
 ### Chef de produit digital chez [Powens](https://www.powens.com/) (freelance)
 **Paris, France / Jan 2022 - Nov 2022 (11 mois)**
 

@@ -15,17 +15,16 @@ lang: en
 Hi there!
 </p>
 <p style="text-align: center;">
-I'm Jérôme, a freelance product manager and this is my online CV. 
+<span>I'm Jérôme, a Senior Product Manager with 10+ years of experience in SaaS and fintech, primarily as a freelancer, transitioning into Web3 to build innovative, decentralized solutions.  
+</span>
 </p>
 <p style="text-align: center;">
-I have more than 10 years of experience managing SaaS digital products, using Agile/Scrum, Lean and Design thinking  methodologies, mainly for companies in the Fintech industry.
+<span>My specializations in DeFi and Machine Learning bring expertise in smart contracts, tokenomics, and AI-driven product development.</span>
 </p>
 <p style="text-align: center;">
-I'm specialized in the management of complex and technical products thanks to my engineering background and my experience as a J2EE developer. But as a UX Designer, I also build user centered products with great user experience.
+<span>Moreover I have a proven track record of delivering user-centric solutions and collaborating with agile cross-functional teams —including engineering, design, and marketing—to align product vision with strategic goals.</span>
 </p>
+
 <p style="text-align: center;">
-I'm happy to work on products all over Europe as long as some days of remote work are possible.
-</p>
-<p style="text-align: center;">
-Looking forward to having a chat!
+My contact informations are displayed below, looking forward to having a chat :)
 </p>

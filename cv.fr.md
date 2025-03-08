@@ -13,14 +13,14 @@ lang: fr
 
 ## Expérience professionnelle
 
-### Chef de produit digital / Scrum Master chez [Vaudoise Assurances](https://www.vaudoise.ch/) (consultant)
+### Product Owner / Scrum Master chez [Vaudoise Assurances](https://www.vaudoise.ch/) (consultant)
 **Lausanne, Suisse / Avril 2024 - Présent**
 
 Je participe activement à la création d'un centre de service Cloud (appelé la "Cloud Assembly Factory") pour fournir l'infrastructure IT et les environnements Microsoft Azure nécessaires aux nouveaux produits de la Transformation Digitale. Je suis par ailleurs résponsable du coaching, de l'évengélisation et de mise en place de l'agilité au sein de mes deux équipes pluridisciplinaires en assumant le rôle de Scrum Master.
 
 Vaudoise Assurances is one of the ten largest private insurance companies in the Swiss market.
 
-### Chef de produit digital chez [Powens](https://www.powens.com/) (freelance)
+### Product Manager chez [Powens](https://www.powens.com/) (freelance)
 **Paris, France / Jan 2022 - Nov 2022 (11 mois)**
 
 J'ai géré l'API Bank, le principal produit de l’entreprise, en nombre de clients et de revenus, et le leader du marché en France. Il permet aux clients de connecter leurs données bancaires instantanéments pour permettre aux entreprises clientes d’accéder aux soldes, transactions et données antérieures détaillés de comptes courants – le tout normalisé pour une intégration fluide.
@@ -45,7 +45,7 @@ Powens fournit une API Open Finance qui permet aux entreprises de créer des exp
 </details>
 <p>&nbsp;</p>  
 
-### Chef de produit digital chez [Adeo](https://www.adeo.com/) (freelance)
+### Product Owner chez [Adeo](https://www.adeo.com/) (freelance)
 **Lille, France / Jan 2021 - Sep 2021 (9 mois)**
 
 J'ai géré le produit interne Data Finder, qui fournit à la fois un portail aux collaborateurs et une API aux applications du groupe pour leur permettre de facilement partager, gérer les accès et rechercher de la donnée sur le Cloud.
@@ -70,7 +70,7 @@ Adeo est un des leaders mondiaux de l'amélioration de l'habitat, du cadre de vi
 </details>
 <p>&nbsp;</p>  
 
-### Chef de produit API chez [Allianz Trade (ex-Euler Hermes)](https://www.allianz-trade.fr/) (freelance)
+### Product Manager chez [Allianz Trade (ex-Euler Hermes)](https://www.allianz-trade.fr/) (freelance)
 **Paris, France / Avr 2018 - Dec 2019 (1 an 8 mois)**
 
 J'ai géré le produit Single Invoice Cover(SIC), la première API B2B sur le marché permettant à des clients, principalement des entreprises d’affacturage, de demander de l’assurance à la facture en temps réel. Et ce, au sein d’une équipe pluridisciplinaire interne qui permet de gérer le produit de bout en bout.
@@ -96,7 +96,7 @@ L’agence digitale d’Euler Hermes (EHDA) est un service d’Euler Hermes, le 
 </details>
 <p>&nbsp;</p>  
 
-### Chef de produit digital chez [GENIAC](https://www.crunchbase.com/organization/geniac#section-overview) (freelance)
+### Product Manager chez [GENIAC](https://www.crunchbase.com/organization/geniac#section-overview) (freelance)
 **London, UK; Madrid, Spain / Mai 2014 - Août 2017 (> 3 ans)**
 
 J'ai géré le produit GENIAC qui simplifie la gestion administrative des entrepreneurs de plus de 1000 PME aux Royaume Unis.
@@ -131,7 +131,7 @@ Mes principaux objectifs et réalisations:
 </details>
 <p>&nbsp;</p>  
 
-### Chef de produit digital chez [The Business of Fashion](https://www.businessoffashion.com/) (freelance)
+### Product Owner chez [The Business of Fashion](https://www.businessoffashion.com/) (freelance)
 **Londres, GB / Dec 2013 - Mai 2014 (6 mois)**
 
 J'ai géré le site carrière de l'entreprise afin de diversifier ses sources de revenu. Le site carrière permet à des entreprises partenaires de bénéficier d'un site de présentation sur BoF ainsi que de poster des offres d'emploi sur le site auxquels les candidats peuvent postuler directement sur le site.

@@ -205,4 +205,12 @@ Built the front-end of the new new customer's e-banking application following th
 **Tags**  
 `Waterfall project delivery` `Continuous integration` `Model Driven Development``MSProject` `MSOffice` `QualityCenter` `Eclipse` `Selenium` `UML` `Design Patterns` `J2EE` `Spring Web Flow` `Oracle Weblogic Portal/Server` `Jenkins` `CSS` `Javascript` `JQuery` `HTML` `XML` `JSP` `Perl`
 </details>
-<p>&nbsp;</p>  
+<p>&nbsp;</p>
+
+## Certifications
+
+- **<i>Decentralized Finance (DeFi): The Future of Finance</i> Specialization from Duke University (2025)"**
+- **<i>Machine Learning</i> Specialization from Stanford University (2024)**
+- **<i>UX Design</i> Specialization from Google (2024)**
+- **Drone Pilote certification (2023)**
+- **Scrum Master certification (2010)**

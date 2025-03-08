@@ -15,14 +15,14 @@ lang: es
 ¡Hola!
 </p>
 <p style="text-align: center;">
-Tengo más de 10 años de experiencia en gestión de SaaS productos digitales combinando metodologías Agile Scrum/Kanban y Design Thinking, principalmente trabajando como freelance en productos del sector Fintech pero no exclusivamente.
+Soy Jérôme, un Senior Product Manager con más de 10 años de experiencia en SaaS y fintech, principalmente como freelance, en transición hacia Web3 para construir soluciones innovadoras y descentralizadas.
 </p>
 <p style="text-align: center;">
-Aunque me siento cómodo en comunicación y marketing, mi especialidad es la producción y entrega de productos complejos y técnicos. Efectivamente, tengo una formación como ingeniero generalista y mi primera experiencia profesional tuvo lugar en Accenture, donde participé en el diseño y desarrollo de aplicaciones en Fintech como desarrollador Java, gestor de proyectos y analista de negocio.
+Mis especializaciones en DeFi y Machine Learning aportan experiencia en contratos inteligentes, tokenomics y desarrollo de productos impulsados por IA.
 </p>
 <p style="text-align: center;">
-Estoy buscando asignaciones en todo Europa si es posible organizar días de teletrabajo.
+Además, tengo un historial comprobado de entrega de soluciones centradas en el usuario y de colaboración con equipos ágiles y multifuncionales — incluyendo ingeniería, diseño y marketing — para alinear la visión del producto con los objetivos estratégicos.
 </p>
 <p style="text-align: center;">
-¡Estoy deseando charlar!
+Mis datos de contacto se encuentran a continuación. ¡Espero poder charlar con ustedes! :)
 </p>
